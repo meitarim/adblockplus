@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Дзеянні">
 <!ENTITY filter.selectAll.label "Вылучыць усе">
 <!ENTITY backupButton.label "Рэ&amp;зерваванне і аднаўленне">
-<!ENTITY restore.minVersion.warning "Папярэджанне: файл створаны навейшай версіяй Adblock Plus. Перад аднаўленнем дадзеных з гэтай рэзервовай копіі, вы павіны абнавіць Adblock Plus да найноўшай версіі.">
-<!ENTITY restore.error "Немагчыма апрацаваць дадзеныя. Можа гэты не рэзервовы файл Adblock Plus?">
+<!ENTITY restore.minVersion.warning "Папярэджанне: файл створаны навейшай версіяй Adblocky. Перад аднаўленнем дадзеных з гэтай рэзервовай копіі, вы павіны абнавіць Adblocky да найноўшай версіі.">
+<!ENTITY restore.error "Немагчыма апрацаваць дадзеныя. Можа гэты не рэзервовы файл Adblocky?">
 <!ENTITY sort.ascending.label "ад &amp;А да Я">
 <!ENTITY sort.label "Упа&amp;радкаваць">
 <!ENTITY subscription.source.label "Спіс фільтраў">
@@ -29,12 +29,12 @@
 <!ENTITY subscription.lastDownload.unknown "невядома">
 <!ENTITY addSubscriptionCancel.label "Скасаваць">
 <!ENTITY subscription.enabled.label "Актыўная">
-<!ENTITY noSubscriptions.text "Вы не дадалі падпіскі на фільтры. Без фільтраў Adblock Plus не будзе
+<!ENTITY noSubscriptions.text "Вы не дадалі падпіскі на фільтры. Без фільтраў Adblocky не будзе
   блакаваць рэкламу, націсніце кнопку &quot;Дадаць падпіску на фільтр&quot;.">
 <!ENTITY subscription.update.label "Абнавіць фільтры">
-<!ENTITY dialog.title "Налады фільтраў Adblock Plus">
+<!ENTITY dialog.title "Налады фільтраў Adblocky">
 <!ENTITY addFilter.label "Дадаць &amp;фільтр">
-<!ENTITY subscription.minVersion.warning "Гэтая падпіска патрабуе больш новай версіі Adblock Plus, трэба абнавіць Adblock Plus да найноўшай версіі.">
+<!ENTITY subscription.minVersion.warning "Гэтая падпіска патрабуе больш новай версіі Adblocky, трэба абнавіць Adblocky да найноўшай версіі.">
 <!ENTITY subscription.lastDownload.invalidURL "Памылка: няправільны адрас">
 <!ENTITY backup.error "Падчас запісу файла фільтра адбылася памылка. Магчыма, файл абаронены ад запісу або выкарыстоўваецца іншай праграмай.">
 <!ENTITY filter.moveUp.label "Пасунуць вышэй">

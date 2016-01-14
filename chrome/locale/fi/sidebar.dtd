@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Valitse">
 <!ENTITY whitelisted.label "Sallituksi määritetty sivu">
 <!ENTITY context.disablefilteronsite.label "Estä tämä suodatin kohteessa ?1?">
-<!ENTITY detached.title "Adblock Plus: Estettävissä olevien kohteiden lista (valittavissa)">
+<!ENTITY detached.title "Adblocky: Estettävissä olevien kohteiden lista (valittavissa)">
 <!ENTITY docDomain.firstParty "(ensimmäinen osapuoli)">
 <!ENTITY tooltip.type.whitelisted "(Määritetty hyväksytyksi)">
 <!ENTITY tooltip.filter.label "Käytössä oleva suodatin:">

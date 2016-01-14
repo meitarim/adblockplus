@@ -33,7 +33,7 @@
 <!ENTITY subscription.update.label "Надгради филтери">
 <!ENTITY dialog.title "Филтерски Подесувања">
 <!ENTITY addFilter.label "Додај филтер">
-<!ENTITY subscription.minVersion.warning "За овој филтер е потребна понова верзија на Adblock Plus. Треба да го надградите софтверот на најновата верзија.">
+<!ENTITY subscription.minVersion.warning "За овој филтер е потребна понова верзија на Adblocky. Треба да го надградите софтверот на најновата верзија.">
 <!ENTITY subscription.lastDownload.invalidURL "Неуспешно, адресата не е валидна">
 <!ENTITY backup.error "Имаше грешка кога се запишуваа филтрите. Осигурајте се дека датотеката не е во употреба од друга апликација.">
 <!ENTITY filter.moveUp.label "Помести нагоре">

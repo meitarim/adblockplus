@@ -1,24 +1,24 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# This file is part of Adblock Plus <https://adblockplus.org/>,
+# This file is part of Adblocky <https://adblockplus.org/>,
 # Copyright (C) 2006-2015 Eyeo GmbH
 #
-# Adblock Plus is free software: you can redistribute it and/or modify
+# Adblocky is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License version 3 as
 # published by the Free Software Foundation.
 #
-# Adblock Plus is distributed in the hope that it will be useful,
+# Adblocky is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with Adblock Plus.  If not, see <http://www.gnu.org/licenses/>.
+# along with Adblocky.  If not, see <http://www.gnu.org/licenses/>.
 
 #############################################################################
 # This is a reference script to add checksums to downloadable               #
-# subscriptions. The checksum will be validated by Adblock Plus on download #
+# subscriptions. The checksum will be validated by Adblocky on download #
 # and checksum mismatches (broken downloads) will be rejected.              #
 #                                                                           #
 # To add a checksum to a subscription file, run the script like this:       #
