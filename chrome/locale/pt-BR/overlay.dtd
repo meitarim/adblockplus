@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;Não">
-<!ENTITY sync.label "S&amp;incronizar configurações do Adblocky">
+<!ENTITY sync.label "S&amp;incronizar configurações do Community Adblock">
 <!ENTITY whitelist.site.label "Desativar em ?1?">
 <!ENTITY notification.closing.button.hide "Fechar e&amp;sta notificação">
 <!ENTITY filters.label "Opções de &amp;filtros">
 <!ENTITY disable.label "Desativar em todas as páginas">
 <!ENTITY objecttab.title "Bloquear">
-<!ENTITY objecttab.tooltip "Clique aqui para bloquear este objeto com o Adblocky">
+<!ENTITY objecttab.tooltip "Clique aqui para bloquear este objeto com o Community Adblock">
 <!ENTITY menuitem.label "Preferências do Ad&amp;block Plus">
 <!ENTITY objecttabs.label "Mostrar abas em Flash e &amp;Java">
 <!ENTITY sendReport.label "&amp;Reportar problema nesta página">
 <!ENTITY whitelist.page.label "Desativar somente nesta página">
-<!ENTITY context.image.label "Adblocky: Bloquear imagem">
+<!ENTITY context.image.label "Community Adblock: Bloquear imagem">
 <!ENTITY notification.button.yes "&amp;Sim">
 <!ENTITY opensidebar.label "A&amp;brir itens bloqueáveis">
 <!ENTITY notification.button.close "&amp;Fechar">
 <!ENTITY shownotifications.label "Mostrar &amp;notificações úteis">
-<!ENTITY contribute.label "Contribuir com o Adblocky">
-<!ENTITY toolbarbutton.label "Adblocky">
-<!ENTITY context.frame.label "Adblocky: Bloquear quadro">
+<!ENTITY contribute.label "Contribuir com o Community Adblock">
+<!ENTITY toolbarbutton.label "Community Adblock">
+<!ENTITY context.frame.label "Community Adblock: Bloquear quadro">
 <!ENTITY blocked.tooltip "Itens bloqueados nesta página:">
 <!ENTITY notification.closing.button.optout "&amp;Parar de mostrar notificações">
 <!ENTITY counthits.label "Cont&amp;ar acertos de filtros">
 <!ENTITY showinstatusbar.label "&amp;Mostrar na barra de status">
 <!ENTITY sidebar.title "Itens bloqueáveis na página atual">
 <!ENTITY options.label "&amp;Opções">
-<!ENTITY context.object.label "Adblocky: Bloquear objeto">
-<!ENTITY context.removeWhitelist.label "Adblocky: Reativar nessa página">
+<!ENTITY context.object.label "Community Adblock: Bloquear objeto">
+<!ENTITY context.removeWhitelist.label "Community Adblock: Reativar nessa página">
 <!ENTITY filters.tooltip "Filtros mais ativos:">
 <!ENTITY closesidebar.label "Fechar itens &amp;bloqueáveis">
 <!ENTITY showintoolbar.label "Mostrar na barra de &amp;ferramentas">
 <!ENTITY status.tooltip "Status:">
-<!ENTITY context.media.label "Adblocky: Bloquear áudio/vídeo">
+<!ENTITY context.media.label "Community Adblock: Bloquear áudio/vídeo">

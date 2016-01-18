@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Odvoji">
 <!ENTITY whitelisted.label "Stranica koja je na dopuštenom popisu">
 <!ENTITY context.disablefilteronsite.label "Onemogućiti ovaj filter na ?1?">
-<!ENTITY detached.title "Adblocky: stavke za blokiranje (odvojene)">
+<!ENTITY detached.title "Community Adblock: stavke za blokiranje (odvojene)">
 <!ENTITY docDomain.firstParty "(prva strana)">
 <!ENTITY tooltip.type.whitelisted "(na dozvoljenom popisu)">
 <!ENTITY tooltip.filter.label "Filter u upotrebi:">

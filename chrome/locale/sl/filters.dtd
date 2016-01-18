@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Dejanja">
 <!ENTITY filter.selectAll.label "Izberi vse">
 <!ENTITY backupButton.label "&amp;Varnostno kopiraj in obnovi">
-<!ENTITY restore.minVersion.warning "Opozorilo: datoteka je bila ustvarjena z novejšo različico Adblocky. Pred obnovitvijo iz te datoteke, najprej posodobi na najnovejšo različico Adblocky.">
-<!ENTITY restore.error "Podatkov datoteke ni bilo mogoče obdelat. Je datoteka res varnostna kopija programa Adblocky?">
+<!ENTITY restore.minVersion.warning "Opozorilo: datoteka je bila ustvarjena z novejšo različico Community Adblock. Pred obnovitvijo iz te datoteke, najprej posodobi na najnovejšo različico Community Adblock.">
+<!ENTITY restore.error "Podatkov datoteke ni bilo mogoče obdelat. Je datoteka res varnostna kopija programa Community Adblock?">
 <!ENTITY sort.ascending.label "od &amp;A &gt; Z">
 <!ENTITY sort.label "Raz&amp;vrsti">
 <!ENTITY subscription.source.label "Seznam filtrov">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "Ni na voljo">
 <!ENTITY addSubscriptionCancel.label "Prekliči">
 <!ENTITY subscription.enabled.label "Omogočeno">
-<!ENTITY noSubscriptions.text "Trenutno nimate nobenih naročnin filtrov. Adblocky ne more
+<!ENTITY noSubscriptions.text "Trenutno nimate nobenih naročnin filtrov. Community Adblock ne more
 blokirati ničesar brez filtrov. Prosimo, izberite &quot;Dodaj naročnino filtra&quot;
 za dodajanje novega filtra.">
 <!ENTITY subscription.update.label "Posodobi filtre">
-<!ENTITY dialog.title "Nastavitve filtrov za Adblocky">
+<!ENTITY dialog.title "Nastavitve filtrov za Community Adblock">
 <!ENTITY addFilter.label "&amp;Dodaj filter">
-<!ENTITY subscription.minVersion.warning "Ta filter potrebuje novejšo različico Adblocky. Priporočamo posodobitev Adblocky na najnovešo različico.">
+<!ENTITY subscription.minVersion.warning "Ta filter potrebuje novejšo različico Community Adblock. Priporočamo posodobitev Community Adblock na najnovešo različico.">
 <!ENTITY subscription.lastDownload.invalidURL "Neuspešno, ni veljaven naslov">
 <!ENTITY backup.error "Napaka pri zapisu filtrov v datoteko. Poskrbite, da datoteka ni zaščitena pred pisanjem ali v uporabi nekega drugega programa.">
 <!ENTITY filter.moveUp.label "Premakni navzgor">

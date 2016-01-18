@@ -1,5 +1,5 @@
 <!ENTITY addMain.label "Također dodaj pretplatu &quot;?1?&quot;">
-<!ENTITY list.download.failed "Adblocky nije uspio dohvatiti listu pretplata.">
+<!ENTITY list.download.failed "Community Adblock nije uspio dohvatiti listu pretplata.">
 <!ENTITY list.download.retry "Pokušaj ponovo">
 <!ENTITY title.label "Naslov pre&amp;tplate:">
 <!ENTITY list.download.website "Posjeti stranicu">
@@ -7,6 +7,6 @@
 <!ENTITY viewList.label "Pogledaj filtere">
 <!ENTITY visitHomepage.label "Vrati se na početnu stranicu">
 <!ENTITY addSubscription.label "Dodaj pretplatu">
-<!ENTITY dialog.title "Dodaj Adblocky pretplatu na filter">
+<!ENTITY dialog.title "Dodaj Community Adblock pretplatu na filter">
 <!ENTITY location.label "Lokacija popisa filtera:">
 <!ENTITY fromWeb.description "Molimo vas da potvrdite da želite dodati ovaj filtar pretplate. Promijenite pretplate titula ili mjesto prije dodavanja.">

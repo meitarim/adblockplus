@@ -1,12 +1,12 @@
 <!ENTITY notification.button.no "&amp;No">
-<!ENTITY sync.label "Sincroni&amp;zar predisposiciones de Adblocky">
+<!ENTITY sync.label "Sincroni&amp;zar predisposiciones de Community Adblock">
 <!ENTITY whitelist.site.label "Desactivar en ?1?">
 <!ENTITY notification.closing.button.hide "C&amp;errar este aviso">
 <!ENTITY filters.label "&amp;Preferencias de filtros">
 <!ENTITY disable.label "Desactivar globalmente">
 <!ENTITY objecttab.title "Bloquear">
-<!ENTITY objecttab.tooltip "Pulse aquí para bloquear este objeto con Adblocky">
-<!ENTITY menuitem.label "&amp;Adblocky">
+<!ENTITY objecttab.tooltip "Pulse aquí para bloquear este objeto con Community Adblock">
+<!ENTITY menuitem.label "&amp;Community Adblock">
 <!ENTITY objecttabs.label "&amp;Mostrar pestañas en Flash y Java">
 <!ENTITY sendReport.label "&amp;Informar de un problema en esta página">
 <!ENTITY whitelist.page.label "Desactivar sólo en esta página">
@@ -15,8 +15,8 @@
 <!ENTITY opensidebar.label "Abrir &amp;ventana elementos bloqueables">
 <!ENTITY notification.button.close "&amp;Cerrar">
 <!ENTITY shownotifications.label "M&amp;ostrar avisos útiles">
-<!ENTITY contribute.label "Ayudar a Adblocky">
-<!ENTITY toolbarbutton.label "Adblocky">
+<!ENTITY contribute.label "Ayudar a Community Adblock">
+<!ENTITY toolbarbutton.label "Community Adblock">
 <!ENTITY context.frame.label "ABP - Bloquear marco">
 <!ENTITY blocked.tooltip "Elementos bloqueados en esta página:">
 <!ENTITY notification.closing.button.optout "&amp;Dejar de mostrar avisos">

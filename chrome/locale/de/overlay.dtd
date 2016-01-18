@@ -5,29 +5,29 @@
 <!ENTITY filters.label "Filterein&amp;stellungen">
 <!ENTITY disable.label "Überall deaktivieren">
 <!ENTITY objecttab.title "Blockieren">
-<!ENTITY objecttab.tooltip "Klicken Sie hier, um dieses Objekt mit Adblocky zu blockieren">
-<!ENTITY menuitem.label "&amp;Adblocky - Einstellungen">
+<!ENTITY objecttab.tooltip "Klicken Sie hier, um dieses Objekt mit Community Adblock zu blockieren">
+<!ENTITY menuitem.label "&amp;Community Adblock - Einstellungen">
 <!ENTITY objecttabs.label "Ta&amp;b zum Blockieren von Flash und Java anzeigen">
 <!ENTITY sendReport.label "&amp;Fehler auf dieser Seite melden">
 <!ENTITY whitelist.page.label "Deaktivieren: nur auf dieser Seite">
-<!ENTITY context.image.label "Adblocky: Grafik blockieren">
+<!ENTITY context.image.label "Community Adblock: Grafik blockieren">
 <!ENTITY notification.button.yes "&amp;Ja">
 <!ENTITY opensidebar.label "&amp;Blockierbare Elemente öffnen">
 <!ENTITY notification.button.close "&amp;Schließen">
 <!ENTITY shownotifications.label "Hilfreiche &amp;Benachrichtigungen anzeigen">
-<!ENTITY contribute.label "Zu Adblocky beitragen">
-<!ENTITY toolbarbutton.label "Adblocky">
-<!ENTITY context.frame.label "Adblocky: Frame blockieren">
+<!ENTITY contribute.label "Zu Community Adblock beitragen">
+<!ENTITY toolbarbutton.label "Community Adblock">
+<!ENTITY context.frame.label "Community Adblock: Frame blockieren">
 <!ENTITY blocked.tooltip "Blockierte Elemente auf dieser Seite:">
 <!ENTITY notification.closing.button.optout "&amp;Keine weiteren Benachrichtigungen anzeigen">
 <!ENTITY counthits.label "Filtertreffer &amp;zählen">
 <!ENTITY showinstatusbar.label "In &amp;Statusleiste anzeigen">
 <!ENTITY sidebar.title "Elemente der geöffneten Seite">
 <!ENTITY options.label "&amp;Optionen">
-<!ENTITY context.object.label "Adblocky: Objekt blockieren">
-<!ENTITY context.removeWhitelist.label "Adblocky: Auf dieser Seite wieder aktivieren">
+<!ENTITY context.object.label "Community Adblock: Objekt blockieren">
+<!ENTITY context.removeWhitelist.label "Community Adblock: Auf dieser Seite wieder aktivieren">
 <!ENTITY filters.tooltip "Am meisten angewandte Filter:">
 <!ENTITY closesidebar.label "&amp;Blockierbare Elemente schließen">
 <!ENTITY showintoolbar.label "In Symbolleis&amp;te anzeigen">
 <!ENTITY status.tooltip "Status:">
-<!ENTITY context.media.label "Adblocky: Audio-/Video-Element blockieren">
+<!ENTITY context.media.label "Community Adblock: Audio-/Video-Element blockieren">

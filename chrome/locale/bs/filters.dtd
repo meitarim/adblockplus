@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Akcije">
 <!ENTITY filter.selectAll.label "Označi sve">
 <!ENTITY backupButton.label "&amp;Backup and Restore">
-<!ENTITY restore.minVersion.warning "Upozorenje: Filteri su stvorenje sa novium Versiom od Adblocky. Trebaliste Uraditi Update na naj noviu Versiu od Adblocky prije nego sto vratite nesto od ovog File.">
-<!ENTITY restore.error "Podaci iz datoteke se ne može obraditi, možda ovo nije Adblocky sigurnosnu kopiju?">
+<!ENTITY restore.minVersion.warning "Upozorenje: Filteri su stvorenje sa novium Versiom od Community Adblock. Trebaliste Uraditi Update na naj noviu Versiu od Community Adblock prije nego sto vratite nesto od ovog File.">
+<!ENTITY restore.error "Podaci iz datoteke se ne može obraditi, možda ovo nije Community Adblock sigurnosnu kopiju?">
 <!ENTITY sort.ascending.label "&amp;A &gt; Z Sortinari Odrdneri">
 <!ENTITY sort.label "&amp;Sortirano od">
 <!ENTITY subscription.source.label "Lista filtera">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "N/A">
 <!ENTITY addSubscriptionCancel.label "Poništiti">
 <!ENTITY subscription.enabled.label "Omogućeno">
-<!ENTITY noSubscriptions.text "Niste dodali ni jednu filter pretplatu. Adblocky neće blokirati bez filtera, molimo koristite &quot;Dodajte filter pretplatu&quot; da biste dodali filter.">
+<!ENTITY noSubscriptions.text "Niste dodali ni jednu filter pretplatu. Community Adblock neće blokirati bez filtera, molimo koristite &quot;Dodajte filter pretplatu&quot; da biste dodali filter.">
 <!ENTITY subscription.update.label "Nadogradite filtere">
-<!ENTITY dialog.title "Adblocky Filter Postavke">
+<!ENTITY dialog.title "Community Adblock Filter Postavke">
 <!ENTITY addFilter.label "&amp;Dodaj filter">
-<!ENTITY subscription.minVersion.warning "Ova filter pretplata zahtijeva noviju verziju Adblocky, trebali biste nadograditi Adblocky.">
+<!ENTITY subscription.minVersion.warning "Ova filter pretplata zahtijeva noviju verziju Community Adblock, trebali biste nadograditi Community Adblock.">
 <!ENTITY subscription.lastDownload.invalidURL "Neuspjeh, adresa nije validna">
 <!ENTITY backup.error "Došlo je do greške pisanja filtera u datoteku . Pobrinite se da datoteka nije zaštićena od pisanja ili se koristi druga aplikacija .">
 <!ENTITY filter.moveUp.label "Idi gore">

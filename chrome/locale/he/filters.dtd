@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "פעולות">
 <!ENTITY filter.selectAll.label "בחירת הכל">
 <!ENTITY backupButton.label "&amp;גיבוי ושחזור">
-<!ENTITY restore.minVersion.warning "אזהרה: הקובץ נוצר על-ידי גרסה חדשה יותר של Adblocky. כדי לשדרג לגרסה האחרונה של Adblocky לפני שחזור מקובץ זה.">
-<!ENTITY restore.error "לא ניתן לעבד המידע בקובץ. אולי זה לא קובץ גיבוי של Adblocky?">
+<!ENTITY restore.minVersion.warning "אזהרה: הקובץ נוצר על-ידי גרסה חדשה יותר של Community Adblock. כדי לשדרג לגרסה האחרונה של Community Adblock לפני שחזור מקובץ זה.">
+<!ENTITY restore.error "לא ניתן לעבד המידע בקובץ. אולי זה לא קובץ גיבוי של Community Adblock?">
 <!ENTITY sort.ascending.label "&amp;מיון מ- א &gt; עד ת">
 <!ENTITY sort.label "&amp;מיון לפי">
 <!ENTITY subscription.source.label "רשימת מסננים">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "לא זמין">
 <!ENTITY addSubscriptionCancel.label "ביטול">
 <!ENTITY subscription.enabled.label "מאפשר">
-<!ENTITY noSubscriptions.text "עדיין לא הוספת הרשמות למסננים. Adblocky לא יחסום דבר ללא מסננים, אנא השתמשו ב-&quot;הוספת הרשמה למסננים&quot; להוספת מסננים.">
+<!ENTITY noSubscriptions.text "עדיין לא הוספת הרשמות למסננים. Community Adblock לא יחסום דבר ללא מסננים, אנא השתמשו ב-&quot;הוספת הרשמה למסננים&quot; להוספת מסננים.">
 <!ENTITY subscription.update.label "עדכון מסננים">
-<!ENTITY dialog.title "העדפות סינון Adblocky">
+<!ENTITY dialog.title "העדפות סינון Community Adblock">
 <!ENTITY addFilter.label "&amp;הוספת מסנן">
-<!ENTITY subscription.minVersion.warning "הרשמת מסננים זאת דורשת גרסה חדשה יותר של Adblocky, צריך לשדרג לגרסה האחרונה של Adblocky.">
+<!ENTITY subscription.minVersion.warning "הרשמת מסננים זאת דורשת גרסה חדשה יותר של Community Adblock, צריך לשדרג לגרסה האחרונה של Community Adblock.">
 <!ENTITY subscription.lastDownload.invalidURL "נכשל, הכתובת שגויה">
 <!ENTITY backup.error "אירעה שגיאה ברשימת המסננים לקובץ. יש לוודא כי הקובץ לא מוגן לכתיבה או בשימוש על-ידי יישום אחר.">
 <!ENTITY filter.moveUp.label "הזזה מעלה">

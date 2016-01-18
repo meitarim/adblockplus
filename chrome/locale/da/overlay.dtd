@@ -1,12 +1,12 @@
 <!ENTITY notification.button.no "&amp;Nej">
-<!ENTITY sync.label "Syn&amp;k Adblocky indstillinger">
+<!ENTITY sync.label "Syn&amp;k Community Adblock indstillinger">
 <!ENTITY whitelist.site.label "Slå fra på ?1?">
 <!ENTITY notification.closing.button.hide "Luk d&amp;enne besked">
 <!ENTITY filters.label "&amp;Filterpræferencer">
 <!ENTITY disable.label "Deaktiver overalt">
 <!ENTITY objecttab.title "Bloker">
-<!ENTITY objecttab.tooltip "Klik her for at blokere dette objekt med Adblocky">
-<!ENTITY menuitem.label "&amp;Adblocky indstillinger">
+<!ENTITY objecttab.tooltip "Klik her for at blokere dette objekt med Community Adblock">
+<!ENTITY menuitem.label "&amp;Community Adblock indstillinger">
 <!ENTITY objecttabs.label "Vis faner på Flash og &amp;Java">
 <!ENTITY sendReport.label "Ra&amp;pporter problem">
 <!ENTITY whitelist.page.label "Slå fra på denne side">
@@ -15,8 +15,8 @@
 <!ENTITY opensidebar.label "Åbn bloké&amp;rbare elementer">
 <!ENTITY notification.button.close "&amp;Luk">
 <!ENTITY shownotifications.label "Vis &amp;nyttige beskeder">
-<!ENTITY contribute.label "Bidrag til Adblocky">
-<!ENTITY toolbarbutton.label "Adblocky">
+<!ENTITY contribute.label "Bidrag til Community Adblock">
+<!ENTITY toolbarbutton.label "Community Adblock">
 <!ENTITY context.frame.label "Adblock ramme">
 <!ENTITY blocked.tooltip "Blokerede emner på denne side:">
 <!ENTITY notification.closing.button.optout "&amp;Stop visning af beskeder">
@@ -25,9 +25,9 @@
 <!ENTITY sidebar.title "Blokérbare elementer på aktuel side">
 <!ENTITY options.label "In&amp;dstillinger">
 <!ENTITY context.object.label "Adblock objekt">
-<!ENTITY context.removeWhitelist.label "Adblocky: Genaktivér på denne side">
+<!ENTITY context.removeWhitelist.label "Community Adblock: Genaktivér på denne side">
 <!ENTITY filters.tooltip "Mest aktive filtre:">
 <!ENTITY closesidebar.label "Luk bloké&amp;rbare elementer">
 <!ENTITY showintoolbar.label "Vi&amp;s på værktøjslinje">
 <!ENTITY status.tooltip "Status:">
-<!ENTITY context.media.label "Adblocky: Bloker audio/video">
+<!ENTITY context.media.label "Community Adblock: Bloker audio/video">

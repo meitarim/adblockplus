@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Գործողություններ">
 <!ENTITY filter.selectAll.label "Նշել բոլորը">
 <!ENTITY backupButton.label "Պահուստ և Վերականգնում (&amp;B)">
-<!ENTITY restore.minVersion.warning "Ուշադրություն:Ֆայլը ստեղշվել է ավելի նոր Adblocky-ի տարբերակով:Թարմացրե՛ք Adblocky-ը՝ այդ ֆայլից վերականգնելու համար:">
-<!ENTITY restore.error "Անհանար է վերականգնել:Հնարավո՞ր է, որ դա Adblocky-ի արխիվ չէ:">
+<!ENTITY restore.minVersion.warning "Ուշադրություն:Ֆայլը ստեղշվել է ավելի նոր Community Adblock-ի տարբերակով:Թարմացրե՛ք Community Adblock-ը՝ այդ ֆայլից վերականգնելու համար:">
+<!ENTITY restore.error "Անհանար է վերականգնել:Հնարավո՞ր է, որ դա Community Adblock-ի արխիվ չէ:">
 <!ENTITY sort.ascending.label "&amp;Ա &gt; Ֆ կարգով">
 <!ENTITY sort.label "&amp;Դասավորել">
 <!ENTITY subscription.source.label "Ֆիլտրերի ցուցակ">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "ՉԿԱ">
 <!ENTITY addSubscriptionCancel.label "Չեղարկել">
 <!ENTITY subscription.enabled.label "Միացված է">
-<!ENTITY noSubscriptions.text "Դուք դեռևս չեք բաժանորդագրվել որևէ ֆիլտրի: Adblocky-ը ոչինչ չի արգելափակի  առանց ֆիլտրերի, այդ պատճառով խնդրում ենք կիրառել «Ավելացնել բաժանորդագրություն» կոճակը:">
+<!ENTITY noSubscriptions.text "Դուք դեռևս չեք բաժանորդագրվել որևէ ֆիլտրի: Community Adblock-ը ոչինչ չի արգելափակի  առանց ֆիլտրերի, այդ պատճառով խնդրում ենք կիրառել «Ավելացնել բաժանորդագրություն» կոճակը:">
 <!ENTITY subscription.update.label "Թարմացնել ֆիլտրերը">
-<!ENTITY dialog.title "Adblocky ֆիլտրերի կարգավորեւմ">
+<!ENTITY dialog.title "Community Adblock ֆիլտրերի կարգավորեւմ">
 <!ENTITY addFilter.label "Ավելացնել Ֆիլտր (&amp;d)">
-<!ENTITY subscription.minVersion.warning "Այս ֆիլտրին բաժանորդագրվելու համար անհրաժեշտ է Adblocky-ի ավելի նոր տարբերակը, դուք պետք է թարմացնեք Adblocky-ը:">
+<!ENTITY subscription.minVersion.warning "Այս ֆիլտրին բաժանորդագրվելու համար անհրաժեշտ է Community Adblock-ի ավելի նոր տարբերակը, դուք պետք է թարմացնեք Community Adblock-ը:">
 <!ENTITY subscription.lastDownload.invalidURL "Անհաջող. Սխալ հասցե">
 <!ENTITY backup.error "Անհանար է պահել փոփոխությունները:Համոզվե՛ք, որ ֆայլը հնարավոր է փոխել կամ չի օգտագործվում այլ ծրագրի կողմից:">
 <!ENTITY filter.moveUp.label "Բարձրացնել վերև">

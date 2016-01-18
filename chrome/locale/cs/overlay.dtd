@@ -5,8 +5,8 @@
 <!ENTITY filters.label "&amp;Předvolby filtrů">
 <!ENTITY disable.label "Zakázat všude">
 <!ENTITY objecttab.title "Blokovat">
-<!ENTITY objecttab.tooltip "Klepněte zde pro blokování tohoto objektu pomocí Adblocky">
-<!ENTITY menuitem.label "Předvol&amp;by Adblocky">
+<!ENTITY objecttab.tooltip "Klepněte zde pro blokování tohoto objektu pomocí Community Adblock">
+<!ENTITY menuitem.label "Předvol&amp;by Community Adblock">
 <!ENTITY objecttabs.label "Z&amp;obrazovat ouška u objektů Java a Flash">
 <!ENTITY sendReport.label "&amp;Nahlásit problém na této stránce">
 <!ENTITY whitelist.page.label "Vypnout pouze na této stránce">
@@ -16,18 +16,18 @@
 <!ENTITY notification.button.close "&amp;Zavřít">
 <!ENTITY shownotifications.label "Zobrazovat užitečná &amp;upozornění">
 <!ENTITY contribute.label "Přispět Adblocku Plus">
-<!ENTITY toolbarbutton.label "Adblocky">
+<!ENTITY toolbarbutton.label "Community Adblock">
 <!ENTITY context.frame.label "Blokovat rámec">
 <!ENTITY blocked.tooltip "Blokované prvky na této stránce:">
 <!ENTITY notification.closing.button.optout "&amp;Nezobrazovat upozornění">
 <!ENTITY counthits.label "Počítat &amp;zásahy filtrů">
 <!ENTITY showinstatusbar.label "Zob&amp;razit ve stavovém řádku">
-<!ENTITY sidebar.title "Adblocky: Blokovatelné objekty na zobrazené stránce">
+<!ENTITY sidebar.title "Community Adblock: Blokovatelné objekty na zobrazené stránce">
 <!ENTITY options.label "&amp;Možnosti">
 <!ENTITY context.object.label "Blokovat objekt">
-<!ENTITY context.removeWhitelist.label "Adblocky: Znovu povolit na této stránce">
+<!ENTITY context.removeWhitelist.label "Community Adblock: Znovu povolit na této stránce">
 <!ENTITY filters.tooltip "Nejúčinnější filtry:">
 <!ENTITY closesidebar.label "Skrýt seznam &amp;blokovatelných objektů">
 <!ENTITY showintoolbar.label "Zobrazit v &amp;nástrojové liště">
 <!ENTITY status.tooltip "Stav:">
-<!ENTITY context.media.label "Adblocky: Blokovat audio/video">
+<!ENTITY context.media.label "Community Adblock: Blokovat audio/video">

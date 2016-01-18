@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;Ne">
-<!ENTITY sync.label "&amp;Sinkronigi agordojn de Adblocky">
+<!ENTITY sync.label "&amp;Sinkronigi agordojn de Community Adblock">
 <!ENTITY whitelist.site.label "Malebligi sur ?1?">
 <!ENTITY notification.closing.button.hide "Fermi ĉi &amp;tiun sciigon">
 <!ENTITY filters.label "&amp;Filtrilaj agordoj">
 <!ENTITY disable.label "Ĉie malebligi">
 <!ENTITY objecttab.title "Bloki">
-<!ENTITY objecttab.tooltip "Klaku ĉi tien por bloki ĉi tiun objekton per Adblocky">
-<!ENTITY menuitem.label "&amp;Agordoj de Adblocky">
+<!ENTITY objecttab.tooltip "Klaku ĉi tien por bloki ĉi tiun objekton per Community Adblock">
+<!ENTITY menuitem.label "&amp;Agordoj de Community Adblock">
 <!ENTITY objecttabs.label "&amp;Montri langetojn de Flash kaj Ĝavo">
 <!ENTITY sendReport.label "&amp;Raporti problemon pri ĉi tiu paĝo">
 <!ENTITY whitelist.page.label "Malebligi nur sur ĉi tiu paĝo">
-<!ENTITY context.image.label "Adblocky: Bloki bildon">
+<!ENTITY context.image.label "Community Adblock: Bloki bildon">
 <!ENTITY notification.button.yes "&amp;Jes">
 <!ENTITY opensidebar.label "Malfermi &amp;blokeblajn elementojn">
 <!ENTITY notification.button.close "&amp;Fermi">
 <!ENTITY shownotifications.label "Montri utilajn &amp;sciigojn">
-<!ENTITY contribute.label "Kontribuu al Adblocky">
-<!ENTITY toolbarbutton.label "Adblocky">
-<!ENTITY context.frame.label "Adblocky: Bloki kadron">
+<!ENTITY contribute.label "Kontribuu al Community Adblock">
+<!ENTITY toolbarbutton.label "Community Adblock">
+<!ENTITY context.frame.label "Community Adblock: Bloki kadron">
 <!ENTITY blocked.tooltip "Blokitaj elementoj sur ĉi tiu paĝo:">
 <!ENTITY notification.closing.button.optout "&amp;Ne plu montri sciigojn">
 <!ENTITY counthits.label "&amp;Nombri filtriltrafojn">
 <!ENTITY showinstatusbar.label "Vidi&amp;gi en statstrio">
 <!ENTITY sidebar.title "Blokeblaj elementoj sur la nuna paĝo">
 <!ENTITY options.label "&amp;Opcioj">
-<!ENTITY context.object.label "Adblocky: Bloki objekton">
-<!ENTITY context.removeWhitelist.label "Adblocky: Reebligi sur ĉi tiu paĝo">
+<!ENTITY context.object.label "Community Adblock: Bloki objekton">
+<!ENTITY context.removeWhitelist.label "Community Adblock: Reebligi sur ĉi tiu paĝo">
 <!ENTITY filters.tooltip "Plej aktivaj filtriloj:">
 <!ENTITY closesidebar.label "Fermi &amp;blokeblajn elementojn">
 <!ENTITY showintoolbar.label "&amp;Vidigi en ilobreto">
 <!ENTITY status.tooltip "Status:">
-<!ENTITY context.media.label "Adblocky: Bloki aŭdion/videon">
+<!ENTITY context.media.label "Community Adblock: Bloki aŭdion/videon">

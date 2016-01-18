@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Раздвој">
 <!ENTITY whitelisted.label "Изузета страница">
 <!ENTITY context.disablefilteronsite.label "Онемогући филтер на ?1?">
-<!ENTITY detached.title "Adblocky: елементи који се могу блокирати (раздвојени)">
+<!ENTITY detached.title "Community Adblock: елементи који се могу блокирати (раздвојени)">
 <!ENTITY docDomain.firstParty "(локални захтев)">
 <!ENTITY tooltip.type.whitelisted "(дозвољено)">
 <!ENTITY tooltip.filter.label "Примењени филтер:">

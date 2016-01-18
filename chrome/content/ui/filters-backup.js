@@ -1,18 +1,18 @@
 /*
- * This file is part of Adblocky <https://adblockplus.org/>,
+ * This file is part of Community Adblock <https://adblockplus.org/>,
  * Copyright (C) 2006-2015 Eyeo GmbH
  *
- * Adblocky is free software: you can redistribute it and/or modify
+ * Community Adblock is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 3 as
  * published by the Free Software Foundation.
  *
- * Adblocky is distributed in the hope that it will be useful,
+ * Community Adblock is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with Adblocky.  If not, see <http://www.gnu.org/licenses/>.
+ * along with Community Adblock.  If not, see <http://www.gnu.org/licenses/>.
  */
 
 Cu.import("resource://gre/modules/Services.jsm");
@@ -152,7 +152,7 @@ var Backup =
     stream.close();
 
     let match;
-    if (lines.length < 2 || lines[0] != "# Adblocky preferences" || !(match = /version=(\d+)/.exec(lines[1])))
+    if (lines.length < 2 || lines[0] != "# Community Adblock preferences" || !(match = /version=(\d+)/.exec(lines[1])))
     {
       Utils.alert(window, E("backupButton").getAttribute("_restoreError"), E("backupButton").getAttribute("_restoreDialogTitle"));
       return;
@@ -318,7 +318,7 @@ var Backup =
           minVersion  = "2.6.12";
       }
     }
-    list.unshift("[Adblocky " + minVersion + "]");
+    list.unshift("[Community Adblock " + minVersion + "]");
 
     // Insert checksum. Have to add an empty line to the end of the list to
     // account for the trailing newline in the file.

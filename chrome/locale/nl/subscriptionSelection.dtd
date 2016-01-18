@@ -1,5 +1,5 @@
 <!ENTITY addMain.label "Filterabonnement ‘?1?’ oo&amp;k toevoegen">
-<!ENTITY list.download.failed "Adblocky kon de lijst met abonnementen niet ophalen.">
+<!ENTITY list.download.failed "Community Adblock kon de lijst met abonnementen niet ophalen.">
 <!ENTITY list.download.retry "Opnieuw proberen">
 <!ENTITY title.label "A&amp;bonnementstitel:">
 <!ENTITY list.download.website "Website bekijken">
@@ -7,6 +7,6 @@
 <!ENTITY viewList.label "Filters bekijken">
 <!ENTITY visitHomepage.label "Startpagina bezoeken">
 <!ENTITY addSubscription.label "Abonneren">
-<!ENTITY dialog.title "Adblocky-filterabonnement toevoegen">
+<!ENTITY dialog.title "Community Adblock-filterabonnement toevoegen">
 <!ENTITY location.label "Filterlijstl&amp;ocatie:">
 <!ENTITY fromWeb.description "Bevestig dat u dit filterabonnement wilt toevoegen. U kunt de abonnementstitel of -locatie voor het toevoegen wijzigen.">

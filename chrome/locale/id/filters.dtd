@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Tindakan">
 <!ENTITY filter.selectAll.label "Pilih Semua">
 <!ENTITY backupButton.label "&amp;Cadangkan dan Pulihkan">
-<!ENTITY restore.minVersion.warning "Peringatan: berkas ini dibuat dengan Adblocky versi baru. Anda harus memutakhirkan Adblocky ke versi terbaru sebelum memulihkan dari berkas ini.">
-<!ENTITY restore.error "Data berkas tidak dapat diproses, mungkin ini bukan berkas cadangan Adblocky?">
+<!ENTITY restore.minVersion.warning "Peringatan: berkas ini dibuat dengan Community Adblock versi baru. Anda harus memutakhirkan Community Adblock ke versi terbaru sebelum memulihkan dari berkas ini.">
+<!ENTITY restore.error "Data berkas tidak dapat diproses, mungkin ini bukan berkas cadangan Community Adblock?">
 <!ENTITY sort.ascending.label "Urutan &amp;A &gt; Z">
 <!ENTITY sort.label "&amp;Urutkan menurut">
 <!ENTITY subscription.source.label "Daftar penyaring">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "(Tidak diketahui)">
 <!ENTITY addSubscriptionCancel.label "Batal">
 <!ENTITY subscription.enabled.label "Diaktifkan">
-<!ENTITY noSubscriptions.text "Anda belum menambahkan penyaring langganan apapun. Adblocky
+<!ENTITY noSubscriptions.text "Anda belum menambahkan penyaring langganan apapun. Community Adblock
  tidak akan mencekal apa-apa tanpa adanya penyaring, silakan gunakan
  &quot;Tambah penyaring langganan&quot; untuk menambahkan beberapa penyaring.">
 <!ENTITY subscription.update.label "Mutakhirkan penyaring">
-<!ENTITY dialog.title "Preferensi Penyaring Adblocky">
+<!ENTITY dialog.title "Preferensi Penyaring Community Adblock">
 <!ENTITY addFilter.label "Tambah &amp;penyaring">
-<!ENTITY subscription.minVersion.warning "Penyaring langganan ini memerlukan versi Adblocky yang lebih baru, Anda harus memutakhirkan Adblocky ke versi terbaru.">
+<!ENTITY subscription.minVersion.warning "Penyaring langganan ini memerlukan versi Community Adblock yang lebih baru, Anda harus memutakhirkan Community Adblock ke versi terbaru.">
 <!ENTITY subscription.lastDownload.invalidURL "Gagal, alamat tidak sah">
 <!ENTITY backup.error "Terjadi galat penulisan penyaring ke berkas. Pastikan berkas tersebut tidak baca-saja dan tidak sedang digunakan aplikasi lain.">
 <!ENTITY filter.moveUp.label "Naikkan">

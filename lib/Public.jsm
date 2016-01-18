@@ -1,22 +1,22 @@
 /*
- * This file is part of Adblocky <https://adblockplus.org/>,
+ * This file is part of Community Adblock <https://adblockplus.org/>,
  * Copyright (C) 2006-2015 Eyeo GmbH
  *
- * Adblocky is free software: you can redistribute it and/or modify
+ * Community Adblock is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 3 as
  * published by the Free Software Foundation.
  *
- * Adblocky is distributed in the hope that it will be useful,
+ * Community Adblock is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with Adblocky.  If not, see <http://www.gnu.org/licenses/>.
+ * along with Community Adblock.  If not, see <http://www.gnu.org/licenses/>.
  */
 
 /**
- * @fileOverview Public Adblocky API.
+ * @fileOverview Public Community Adblock API.
  */
 
 var EXPORTED_SYMBOLS = ["AdblockPlus"];
@@ -43,7 +43,7 @@ let {Subscription, SpecialSubscription, RegularSubscription, DownloadableSubscri
 const externalPrefix = "~external~";
 
 /**
- * Class implementing public Adblocky API
+ * Class implementing public Community Adblock API
  * @class
  */
 var AdblockPlus =
@@ -155,7 +155,7 @@ var AdblockPlus =
   },
 
   /**
-   * Returns installed Adblocky version
+   * Returns installed Community Adblock version
    */
   getInstalledVersion: function() /**String*/
   {
@@ -163,7 +163,7 @@ var AdblockPlus =
   },
 
   /**
-   * Returns source code revision this Adblocky build was created from (if available)
+   * Returns source code revision this Community Adblock build was created from (if available)
    */
   getInstalledBuild: function() /**String*/
   {

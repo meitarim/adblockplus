@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Actions">
 <!ENTITY filter.selectAll.label "Select All">
 <!ENTITY backupButton.label "Backup and Restore">
-<!ENTITY restore.minVersion.warning "Warning: the file has been created with a newer Adblocky version. You should update to the latest Adblocky version before restoring from this file.">
-<!ENTITY restore.error "The file's data could not be processed, maybe this isn't an Adblocky backup file?">
+<!ENTITY restore.minVersion.warning "Warning: the file has been created with a newer Community Adblock version. You should update to the latest Community Adblock version before restoring from this file.">
+<!ENTITY restore.error "The file's data could not be processed, maybe this isn't an Community Adblock backup file?">
 <!ENTITY sort.ascending.label "A &gt; Z sort order">
 <!ENTITY sort.label "Sort by">
 <!ENTITY subscription.source.label "Filter list">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "N/A">
 <!ENTITY addSubscriptionCancel.label "Cancel">
 <!ENTITY subscription.enabled.label "Enabled">
-<!ENTITY noSubscriptions.text "You haven't added any filter subscriptions yet. Adblocky won't block
+<!ENTITY noSubscriptions.text "You haven't added any filter subscriptions yet. Community Adblock won't block
 	anything without filters, please use &quot;Add filter subscription&quot; to
 	add some.">
 <!ENTITY subscription.update.label "Update filters">
-<!ENTITY dialog.title "Adblocky Filter Preferences">
+<!ENTITY dialog.title "Community Adblock Filter Preferences">
 <!ENTITY addFilter.label "Add filter">
-<!ENTITY subscription.minVersion.warning "This filter subscription requires a newer Adblocky version; you should update to the latest Adblocky version.">
+<!ENTITY subscription.minVersion.warning "This filter subscription requires a newer Community Adblock version; you should update to the latest Community Adblock version.">
 <!ENTITY subscription.lastDownload.invalidURL "Failed: not a valid address">
 <!ENTITY backup.error "There was an error writing filters to the file. Make sure that the file isn't write protected or in use by another application.">
 <!ENTITY filter.moveUp.label "Move up">

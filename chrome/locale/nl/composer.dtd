@@ -13,19 +13,19 @@
 <!ENTITY custom.pattern.label "&amp;Aangepast:">
 <!ENTITY unselectAllTypes.label "Niets selecteren">
 <!ENTITY type.whitelist.label "&amp;Uitzonderingsregel">
-<!ENTITY regexp.warning "Het patroon dat u hebt ingevoerd zal als een reguliere expressie worden behandeld. Deze kunnen niet efficiënt door Adblocky worden verwerkt en kunnen uw browser traag maken. Als het niet uw bedoeling was een reguliere expressie te gebruiken, voeg dan een asterisk (*) aan het einde van het patroon toe.">
-<!ENTITY dialog.title "Adblocky-filterregel toevoegen">
+<!ENTITY regexp.warning "Het patroon dat u hebt ingevoerd zal als een reguliere expressie worden behandeld. Deze kunnen niet efficiënt door Community Adblock worden verwerkt en kunnen uw browser traag maken. Als het niet uw bedoeling was een reguliere expressie te gebruiken, voeg dan een asterisk (*) aan het einde van het patroon toe.">
+<!ENTITY dialog.title "Community Adblock-filterregel toevoegen">
 <!ENTITY basic.label "Eenvoudige weergave">
 <!ENTITY type.filter.label "&amp;Blokkeringsfilter">
 <!ENTITY types.label "Toepassen op typen:">
-<!ENTITY shortpattern.warning "Het patroon dat u hebt ingevoerd is te kort om te worden geoptimaliseerd en kan uw browser traag maken. U kunt beter een langere regel voor dit filter kiezen, zodat Adblocky het filter efficiënter kan verwerken.">
+<!ENTITY shortpattern.warning "Het patroon dat u hebt ingevoerd is te kort om te worden geoptimaliseerd en kan uw browser traag maken. U kunt beter een langere regel voor dit filter kiezen, zodat Community Adblock het filter efficiënter kan verwerken.">
 <!ENTITY collapse.yes.label "Ja">
 <!ENTITY anchors.label "Alleen patronen accepteren:">
 <!ENTITY collapse.default.yes.label "Standaard gebruiken (ja)">
 <!ENTITY domainRestriction.help "Gebruik deze optie om een of meer domeinen te specificeren, gescheiden door een sluisteken (|). Het filter zal alleen op de geselecteerde domeinen worden toegepast. Een tilde (~) voor een domein betekent dat het filter niet op dat domein zal worden toegepast.">
 <!ENTITY accept.label "Filter toevoegen">
 <!ENTITY options.label "Opties">
-<!ENTITY disabled.warning "Adblocky is momenteel uitgeschakeld. U kunt nog wel filters toevoegen, maar deze worden niet toegepast, tenzij u [link]Adblocky weer inschakelt[/link].">
+<!ENTITY disabled.warning "Community Adblock is momenteel uitgeschakeld. U kunt nog wel filters toevoegen, maar deze worden niet toegepast, tenzij u [link]Community Adblock weer inschakelt[/link].">
 <!ENTITY anchor.start.flexible.label "aan &amp;het begin van de domeinnaam">
 <!ENTITY collapse.no.label "Nee">
 <!ENTITY selectAllTypes.label "Alles selecteren">

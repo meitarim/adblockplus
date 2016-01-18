@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;Ez">
-<!ENTITY sync.label "&amp;Sinkronizatu Adblocky ezarpenak">
+<!ENTITY sync.label "&amp;Sinkronizatu Community Adblock ezarpenak">
 <!ENTITY whitelist.site.label "Ezgaitu hemen: ?1?">
 <!ENTITY notification.closing.button.hide "I&amp;txi jakinarazpen hau">
 <!ENTITY filters.label "&amp;Iragazki hobespenak">
 <!ENTITY disable.label "Ezgaitu edonon">
 <!ENTITY objecttab.title "Blokeatu">
-<!ENTITY objecttab.tooltip "Egin klik hemen objektu hau Adblockyekin blokeatzeko">
+<!ENTITY objecttab.tooltip "Egin klik hemen objektu hau Community Adblockekin blokeatzeko">
 <!ENTITY menuitem.label "Adbloc&amp;k Plus hobespenak">
 <!ENTITY objecttabs.label "Erakutsi &amp;fitxak Flash eta Javan">
 <!ENTITY sendReport.label "Orri hone&amp;tan sortutako arazo bati buruzko txostena egin">
 <!ENTITY whitelist.page.label "Ezgaitu orri honetan soilik">
-<!ENTITY context.image.label "Adblocky: Irudia blokeatu">
+<!ENTITY context.image.label "Community Adblock: Irudia blokeatu">
 <!ENTITY notification.button.yes "&amp;Bai">
 <!ENTITY opensidebar.label "Ire&amp;ki elementu blokeagarriak">
 <!ENTITY notification.button.close "&amp;Itxi">
 <!ENTITY shownotifications.label "Erakutsi &amp;jakinarazpen erabilgarriak">
-<!ENTITY contribute.label "Adblocky-en parte hartu">
-<!ENTITY toolbarbutton.label "Adblocky">
-<!ENTITY context.frame.label "Adblocky: Markoa blokeatu">
+<!ENTITY contribute.label "Community Adblock-en parte hartu">
+<!ENTITY toolbarbutton.label "Community Adblock">
+<!ENTITY context.frame.label "Community Adblock: Markoa blokeatu">
 <!ENTITY blocked.tooltip "Orri honetan blokeatutako elementuak:">
 <!ENTITY notification.closing.button.optout "&amp;Utzi jakinarazpenak erakusteari">
 <!ENTITY counthits.label "Zenbatu iragazkien &amp;bategiteak">
 <!ENTITY showinstatusbar.label "Erakutsi &amp;egoera-barran">
 <!ENTITY sidebar.title "Elementu blokeagarriak uneko orrialdean">
 <!ENTITY options.label "&amp;Aukerak">
-<!ENTITY context.object.label "Adblocky: Objektua blokeatu">
-<!ENTITY context.removeWhitelist.label "Adblocky: Bergaitu orri honetan">
+<!ENTITY context.object.label "Community Adblock: Objektua blokeatu">
+<!ENTITY context.removeWhitelist.label "Community Adblock: Bergaitu orri honetan">
 <!ENTITY filters.tooltip "Iragazki aktiboenak:">
 <!ENTITY closesidebar.label "Itxi elementu blo&amp;keagarriak">
 <!ENTITY showintoolbar.label "Erakutsi &amp;tresna-barran">
 <!ENTITY status.tooltip "Egoera:">
-<!ENTITY context.media.label "Adblocky: audio/bideoa blokeatu">
+<!ENTITY context.media.label "Community Adblock: audio/bideoa blokeatu">

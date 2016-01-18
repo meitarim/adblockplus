@@ -1,4 +1,4 @@
-Adblocky for Firefox
+Community Adblock for Firefox
 ========================
 
 Building
@@ -35,7 +35,7 @@ Running the unit tests
 
 To verify your changes you can use the existing
 [unit test suite](https://hg.adblockplus.org/adblockplustests). The unit tests
-are a separate extension that is installed in addition to Adblocky. You can
+are a separate extension that is installed in addition to Community Adblock. You can
 either install the
 [existing unit test builds](https://adblockplus.org/devbuilds/adblockplustests)
 or clone the repository and create your own build. After installing the unit

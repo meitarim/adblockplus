@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Ενέργειες">
 <!ENTITY filter.selectAll.label "Επιλογή όλων">
 <!ENTITY backupButton.label "&amp;Αντίγραφα ασφαλείας και επαναφορά">
-<!ENTITY restore.minVersion.warning "Προειδοποίηση: το αρχείο έχει δημιουργηθεί με μια νεότερη έκδοση του Adblocky. Θα πρέπει να αναβαθμίσετε το Adblocky στην τελευταία του έκδοση πριν ανακτήσετε από αυτό το αρχείο.">
-<!ENTITY restore.error "Τα δεδομένα του αρχείου δεν μπορούν να επεξεργαστούν, μήπως αυτός δεν είναι αντίγραφο ασφαλείας του Adblocky;">
+<!ENTITY restore.minVersion.warning "Προειδοποίηση: το αρχείο έχει δημιουργηθεί με μια νεότερη έκδοση του Community Adblock. Θα πρέπει να αναβαθμίσετε το Community Adblock στην τελευταία του έκδοση πριν ανακτήσετε από αυτό το αρχείο.">
+<!ENTITY restore.error "Τα δεδομένα του αρχείου δεν μπορούν να επεξεργαστούν, μήπως αυτός δεν είναι αντίγραφο ασφαλείας του Community Adblock;">
 <!ENTITY sort.ascending.label "&amp;Αύξουσα">
 <!ENTITY sort.label "&amp;Ταξινόμηση κατά">
 <!ENTITY subscription.source.label "Λίστα φίλτρων">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Μ/Δ">
 <!ENTITY addSubscriptionCancel.label "Ακύρωση">
 <!ENTITY subscription.enabled.label "Ενεργοποιημένη">
-<!ENTITY noSubscriptions.text "Δεν έχετε προσθέσει κάποια συνδρομή φίλτρων. Το Adblocky δεν μπορεί να μπλοκάρει κάτι χωρίς φίλτρα· παρακαλώ χρησιμοποιήστε την &quot;Προσθήκη συνδρομής&quot; για να ορίσετε μια.">
+<!ENTITY noSubscriptions.text "Δεν έχετε προσθέσει κάποια συνδρομή φίλτρων. Το Community Adblock δεν μπορεί να μπλοκάρει κάτι χωρίς φίλτρα· παρακαλώ χρησιμοποιήστε την &quot;Προσθήκη συνδρομής&quot; για να ορίσετε μια.">
 <!ENTITY subscription.update.label "Ενημέρωση φίλτρων">
-<!ENTITY dialog.title "Προτιμήσεις φίλτρων του Adblocky">
+<!ENTITY dialog.title "Προτιμήσεις φίλτρων του Community Adblock">
 <!ENTITY addFilter.label "Προσθήκη &amp;φίλτρου">
-<!ENTITY subscription.minVersion.warning "Αυτή η συνδρομή φίλτρων απαιτεί μια νεότερη έκδοση του Adblocky· θα πρέπει να αναβαθμίσετε το Adblocky στην τελευταία έκδοση.">
+<!ENTITY subscription.minVersion.warning "Αυτή η συνδρομή φίλτρων απαιτεί μια νεότερη έκδοση του Community Adblock· θα πρέπει να αναβαθμίσετε το Community Adblock στην τελευταία έκδοση.">
 <!ENTITY subscription.lastDownload.invalidURL "Απέτυχε, μη έγκυρη διεύθυνση">
 <!ENTITY backup.error "Υπήρξε κάποιο πρόβλημα στην εγγραφή των φίλτρων στο αρχείο. Σιγουρευτείτε ότι το αρχείο δεν προστατεύεται από εγγραφή ή ότι δεν χρησιμοποιείται από κάποια άλλη εφαρμογή.">
 <!ENTITY filter.moveUp.label "Μετακίνηση επάνω">

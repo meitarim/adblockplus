@@ -1,6 +1,6 @@
 <!ENTITY accept.label "Ongeza kichujio">
-<!ENTITY disabled.warning "Adblocky kwa sasa imesitishwa. Hata hivyo unaweza kuongeza vichujio lakini havitafanya kazi hadi [link]utakapowezesha Adblocky[/link].">
+<!ENTITY disabled.warning "Community Adblock kwa sasa imesitishwa. Hata hivyo unaweza kuongeza vichujio lakini havitafanya kazi hadi [link]utakapowezesha Community Adblock[/link].">
 <!ENTITY advanced.label "Mwonekano wa juu">
-<!ENTITY dialog.title "Ongeza kanuni ya kichujio cha Adblocky">
+<!ENTITY dialog.title "Ongeza kanuni ya kichujio cha Community Adblock">
 <!ENTITY basic.label "Mwonekano wa msingi">
 <!ENTITY filter.label "Mpya &amp;kichujio:">

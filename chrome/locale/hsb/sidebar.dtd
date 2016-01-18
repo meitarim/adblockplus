@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Wotpowěsnyć">
 <!ENTITY whitelisted.label "Strona w běłej lisćinje">
 <!ENTITY context.disablefilteronsite.label "Tutón filter na ?1? znjemóžnić">
-<!ENTITY detached.title "Adblocky: Blokujomne elementy (wotpowěsnjene)">
+<!ENTITY detached.title "Community Adblock: Blokujomne elementy (wotpowěsnjene)">
 <!ENTITY docDomain.firstParty "(prěni bok)">
 <!ENTITY tooltip.type.whitelisted "(w běłej lisćinje)">
 <!ENTITY tooltip.filter.label "Aktiwny filter:">

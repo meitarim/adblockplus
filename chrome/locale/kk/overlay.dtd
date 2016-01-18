@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;Жоқ">
-<!ENTITY sync.label "Adblocky баптауларын Sync і&amp;шіне қосу">
+<!ENTITY sync.label "Community Adblock баптауларын Sync і&amp;шіне қосу">
 <!ENTITY whitelist.site.label "Келесі үшін сөндіру: ?1?">
 <!ENTITY notification.closing.button.hide "Бұ&amp;л хабарламаны жабу">
 <!ENTITY filters.label "Фильт&amp;р баптаулары">
 <!ENTITY disable.label "Әр жерде сөндіру">
 <!ENTITY objecttab.title "Блоктау">
-<!ENTITY objecttab.tooltip "Adblocky көмегімен осы объектті блоктау үшін шертіңіз">
-<!ENTITY menuitem.label "Adblocky ба&amp;птаулары">
+<!ENTITY objecttab.tooltip "Community Adblock көмегімен осы объектті блоктау үшін шертіңіз">
+<!ENTITY menuitem.label "Community Adblock ба&amp;птаулары">
 <!ENTITY objecttabs.label "Flash пен Java-ға сілтеме қал&amp;дыру">
 <!ENTITY sendReport.label "Бұл парақтағы мәселе туралы &amp;хабарлау">
 <!ENTITY whitelist.page.label "Тек осы парақ үшін сөндіру">
-<!ENTITY context.image.label "Adblocky: Суретті блоктау">
+<!ENTITY context.image.label "Community Adblock: Суретті блоктау">
 <!ENTITY notification.button.yes "&amp;Иә">
 <!ENTITY opensidebar.label "Блокталған құраманы аш&amp;у">
 <!ENTITY notification.button.close "Ж&amp;абу">
 <!ENTITY shownotifications.label "&amp;Пайдалы хабарламаларды көрсету">
-<!ENTITY contribute.label "Adblocky-қа үлес қосу">
-<!ENTITY toolbarbutton.label "Adblocky">
-<!ENTITY context.frame.label "Adblocky: Фреймді блоктау">
+<!ENTITY contribute.label "Community Adblock-қа үлес қосу">
+<!ENTITY toolbarbutton.label "Community Adblock">
+<!ENTITY context.frame.label "Community Adblock: Фреймді блоктау">
 <!ENTITY blocked.tooltip "Бұл парақтағы блокталған құрама:">
 <!ENTITY notification.closing.button.optout "Хабарламаларды көрсетуді тоқ&amp;тату">
 <!ENTITY counthits.label "Ф&amp;ильтрлер хиттерін санау">
 <!ENTITY showinstatusbar.label "Қалып-&amp;күй жолағында көрсету">
 <!ENTITY sidebar.title "Ағымдағы парақ құрамасы">
 <!ENTITY options.label "&amp;Баптаулар">
-<!ENTITY context.object.label "Adblocky: Объектті блоктау">
-<!ENTITY context.removeWhitelist.label "Adblocky: Осы парақта қайта қосу">
+<!ENTITY context.object.label "Community Adblock: Объектті блоктау">
+<!ENTITY context.removeWhitelist.label "Community Adblock: Осы парақта қайта қосу">
 <!ENTITY filters.tooltip "Көп қолданылатын фильтрлер:">
 <!ENTITY closesidebar.label "Блокталған құраманы жаб&amp;у">
 <!ENTITY showintoolbar.label "&amp;Панельде көрсету">
 <!ENTITY status.tooltip "Күйі:">
-<!ENTITY context.media.label "Adblocky: Аудио/Видеоны блоктау">
+<!ENTITY context.media.label "Community Adblock: Аудио/Видеоны блоктау">

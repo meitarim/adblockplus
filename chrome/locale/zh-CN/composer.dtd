@@ -13,19 +13,19 @@
 <!ENTITY custom.pattern.label "自定义: (&amp;C)">
 <!ENTITY unselectAllTypes.label "全不选">
 <!ENTITY type.whitelist.label "例外规则 (&amp;x)">
-<!ENTITY regexp.warning "您输入的模式将以正则表达式解释。此正则表达式不能高效地在Adblocky上运行，并且可能会降低您浏览的速度。如果您不希望使用正则表达式，请在模式末尾添加一个星号(*)。">
-<!ENTITY dialog.title "添加 Adblocky 过滤规则">
+<!ENTITY regexp.warning "您输入的模式将以正则表达式解释。此正则表达式不能高效地在Community Adblock上运行，并且可能会降低您浏览的速度。如果您不希望使用正则表达式，请在模式末尾添加一个星号(*)。">
+<!ENTITY dialog.title "添加 Community Adblock 过滤规则">
 <!ENTITY basic.label "基本视图">
 <!ENTITY type.filter.label "屏蔽规则 (&amp;B)">
 <!ENTITY types.label "适用于类型：">
-<!ENTITY shortpattern.warning "您输入的模式太短而不能被优化，过多这样的模式会降低您浏览的速度。推荐您为该过滤规则选择一个长些的字符串，这样 Adblocky 才能更有效地处理。">
+<!ENTITY shortpattern.warning "您输入的模式太短而不能被优化，过多这样的模式会降低您浏览的速度。推荐您为该过滤规则选择一个长些的字符串，这样 Community Adblock 才能更有效地处理。">
 <!ENTITY collapse.yes.label "是">
 <!ENTITY anchors.label "仅接受模式:">
 <!ENTITY collapse.default.yes.label "使用默认值 (是)">
 <!ENTITY domainRestriction.help "由竖线(|)分隔的一个或多个域，过滤规则仅应用于这些域上。域名前有代字符(~)，表示过滤规则不应该应用于该域上。">
 <!ENTITY accept.label "添加过滤规则">
 <!ENTITY options.label "选项">
-<!ENTITY disabled.warning "Adblocky 目前处于禁用状态。您可以继续添加过滤规则，但是这些规则在您[link]启用 Adblocky[/link] 之后才能生效。">
+<!ENTITY disabled.warning "Community Adblock 目前处于禁用状态。您可以继续添加过滤规则，但是这些规则在您[link]启用 Community Adblock[/link] 之后才能生效。">
 <!ENTITY anchor.start.flexible.label "在域名开始处 (&amp;g)">
 <!ENTITY collapse.no.label "否">
 <!ENTITY selectAllTypes.label "全选">

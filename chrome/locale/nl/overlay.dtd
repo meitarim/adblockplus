@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;Nee">
-<!ENTITY sync.label "Adblocky-instellingen syn&amp;chroniseren">
+<!ENTITY sync.label "Community Adblock-instellingen syn&amp;chroniseren">
 <!ENTITY whitelist.site.label "Uitschakelen op ?1?">
 <!ENTITY notification.closing.button.hide "D&amp;eze melding sluiten">
 <!ENTITY filters.label "&amp;Filtervoorkeuren">
 <!ENTITY disable.label "Overal uitschakelen">
 <!ENTITY objecttab.title "Blokkeren">
-<!ENTITY objecttab.tooltip "Klik hier om dit object te blokkeren met Adblocky">
-<!ENTITY menuitem.label "&amp;Adblocky-voorkeuren">
+<!ENTITY objecttab.tooltip "Klik hier om dit object te blokkeren met Community Adblock">
+<!ENTITY menuitem.label "&amp;Community Adblock-voorkeuren">
 <!ENTITY objecttabs.label "&amp;Tabs tonen bij Flash en Java">
 <!ENTITY sendReport.label "&amp;Probleem op deze pagina melden">
 <!ENTITY whitelist.page.label "Alleen op deze pagina uitschakelen">
-<!ENTITY context.image.label "Adblocky: afbeelding blokkeren">
+<!ENTITY context.image.label "Community Adblock: afbeelding blokkeren">
 <!ENTITY notification.button.yes "&amp;Ja">
 <!ENTITY opensidebar.label "&amp;Blokkeerbare items openen">
 <!ENTITY notification.button.close "&amp;Sluiten">
 <!ENTITY shownotifications.label "Nuttige &amp;meldingen tonen">
-<!ENTITY contribute.label "Bijdragen aan Adblocky">
-<!ENTITY toolbarbutton.label "Adblocky">
-<!ENTITY context.frame.label "Adblocky: deelvenster blokkeren">
+<!ENTITY contribute.label "Bijdragen aan Community Adblock">
+<!ENTITY toolbarbutton.label "Community Adblock">
+<!ENTITY context.frame.label "Community Adblock: deelvenster blokkeren">
 <!ENTITY blocked.tooltip "Geblokkeerde items op deze pagina:">
 <!ENTITY notification.closing.button.optout "Tonen van meldingen &amp;stoppen">
 <!ENTITY counthits.label "&amp;Filtertreffers tellen">
 <!ENTITY showinstatusbar.label "Tonen in &amp;statusbalk">
 <!ENTITY sidebar.title "Blokkeerbare items op deze pagina">
 <!ENTITY options.label "&amp;Opties">
-<!ENTITY context.object.label "Adblocky: object blokkeren">
-<!ENTITY context.removeWhitelist.label "Adblocky: opnieuw inschakelen op deze pagina">
+<!ENTITY context.object.label "Community Adblock: object blokkeren">
+<!ENTITY context.removeWhitelist.label "Community Adblock: opnieuw inschakelen op deze pagina">
 <!ENTITY filters.tooltip "Meest actieve filters:">
 <!ENTITY closesidebar.label "&amp;Blokkeerbare items sluiten">
 <!ENTITY showintoolbar.label "Tonen in werk&amp;balk">
 <!ENTITY status.tooltip "Status:">
-<!ENTITY context.media.label "Adblocky: audio/video blokkeren">
+<!ENTITY context.media.label "Community Adblock: audio/video blokkeren">

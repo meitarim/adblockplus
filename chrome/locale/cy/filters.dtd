@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Gweithredu">
 <!ENTITY filter.selectAll.label "Dewis popeth">
 <!ENTITY backupButton.label "&amp;Creu copi wrth gefn ac adfer">
-<!ENTITY restore.minVersion.warning "Rhybudd: Crëwyd y ffeil gyda fersiwn diweddarach o Adblocky. Dylech ddefnyddio fersiwn diweddarach o Adblocky cyn adfer o'r ffeil hon.">
-<!ENTITY restore.error "Ni ellir prosesu data'r ffeil, efallai nad ffeil copi wrth gefn Adblocky yw hon?">
+<!ENTITY restore.minVersion.warning "Rhybudd: Crëwyd y ffeil gyda fersiwn diweddarach o Community Adblock. Dylech ddefnyddio fersiwn diweddarach o Community Adblock cyn adfer o'r ffeil hon.">
+<!ENTITY restore.error "Ni ellir prosesu data'r ffeil, efallai nad ffeil copi wrth gefn Community Adblock yw hon?">
 <!ENTITY sort.ascending.label "Trefnu &amp;A &gt; Y">
 <!ENTITY sort.label "&amp;Trefnu yn ôl">
 <!ENTITY subscription.source.label "Rhestr hidlyddion">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Ddim yn berthnasol">
 <!ENTITY addSubscriptionCancel.label "Yn ôl">
 <!ENTITY subscription.enabled.label "Wedi'i alluogi">
-<!ENTITY noSubscriptions.text "'Dych chi heb ychwanegu unrhyw danysgrifiadau hidlo eto. Ni fydd Adblocky yn rhwystro dim heb hidlyddion, felly defnyddiwch &quot;Ychwanegu tanysgrifiad hidlo&quot; i ychwanegu rhai.">
+<!ENTITY noSubscriptions.text "'Dych chi heb ychwanegu unrhyw danysgrifiadau hidlo eto. Ni fydd Community Adblock yn rhwystro dim heb hidlyddion, felly defnyddiwch &quot;Ychwanegu tanysgrifiad hidlo&quot; i ychwanegu rhai.">
 <!ENTITY subscription.update.label "Diweddaru'r hidlyddion">
-<!ENTITY dialog.title "Dewisiadau hidlyddion Adblocky">
+<!ENTITY dialog.title "Dewisiadau hidlyddion Community Adblock">
 <!ENTITY addFilter.label "&amp;Ychwanegu hidlydd">
-<!ENTITY subscription.minVersion.warning "Mae angen fersiwn diweddarach o Adblocky ar gyfer y tanysgrifiad hwn. Dylech chi ddiweddaru Adblocky.">
+<!ENTITY subscription.minVersion.warning "Mae angen fersiwn diweddarach o Community Adblock ar gyfer y tanysgrifiad hwn. Dylech chi ddiweddaru Community Adblock.">
 <!ENTITY subscription.lastDownload.invalidURL "Methwyd, cyfeiriad annilys">
 <!ENTITY backup.error "Bu gwall wrth ysgrifennu'r hidlyddion i'r ffeil. Gwnewch yn siŵr ei bod hi'n bosibl ysgrifennu i'r ffeil a bod dim rhaglen arall yn defnyddio'r ffeil.">
 <!ENTITY filter.moveUp.label "Symud i fyny">

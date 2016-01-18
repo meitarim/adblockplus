@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Eylemler">
 <!ENTITY filter.selectAll.label "Tümünü seç">
 <!ENTITY backupButton.label "&amp;Yedekle ve geri getir">
-<!ENTITY restore.minVersion.warning "Uyarı: Dosya Adblocky'ın daha yeni bir sürümüyle oluşturulmuş. Bu dosyayı geri getirmeden önce Adblocky'ı en güncel sürümüne yükseltmelisiniz.">
-<!ENTITY restore.error "Dosya verisi işlenemiyor. Adblocky yedeği olmayabilir mi?">
+<!ENTITY restore.minVersion.warning "Uyarı: Dosya Community Adblock'ın daha yeni bir sürümüyle oluşturulmuş. Bu dosyayı geri getirmeden önce Community Adblock'ı en güncel sürümüne yükseltmelisiniz.">
+<!ENTITY restore.error "Dosya verisi işlenemiyor. Community Adblock yedeği olmayabilir mi?">
 <!ENTITY sort.ascending.label "&amp;A'da Z'ye sıralama">
 <!ENTITY sort.label "&amp;Sırala">
 <!ENTITY subscription.source.label "Süzgeç listesi">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "Yok">
 <!ENTITY addSubscriptionCancel.label "Vazgeç">
 <!ENTITY subscription.enabled.label "Etkin">
-<!ENTITY noSubscriptions.text "Henüz hiçbir süzgeç aboneliği eklemediniz. Adblocky süzgeç olmadan hiçbir şey
+<!ENTITY noSubscriptions.text "Henüz hiçbir süzgeç aboneliği eklemediniz. Community Adblock süzgeç olmadan hiçbir şey
  engellemeyecektir. Abonelik eklemek için 
  lütfen &quot;Süzgeç aboneliği ekle&quot; düğmesini kullanın.">
 <!ENTITY subscription.update.label "Süzgeçleri güncelle">
-<!ENTITY dialog.title "Adblocky Süzme Tercihleri">
+<!ENTITY dialog.title "Community Adblock Süzme Tercihleri">
 <!ENTITY addFilter.label "Süzgeç e&amp;kle">
-<!ENTITY subscription.minVersion.warning "Bu süzgeç aboneliği daha yeni bir Adblocky sürümü gerektiriyor. En güncel Adblocky sürümüne yükseltmelisiniz.">
+<!ENTITY subscription.minVersion.warning "Bu süzgeç aboneliği daha yeni bir Community Adblock sürümü gerektiriyor. En güncel Community Adblock sürümüne yükseltmelisiniz.">
 <!ENTITY subscription.lastDownload.invalidURL "Olmadı. Bu geçerli bir adres değil.">
 <!ENTITY backup.error "Süzgeçler dosyaya yazılırken bir sorun meydana geldi. Dosyanın yazma korumalı veya başka bir uygulama tarafından kullanılmıyor olduğundan emin olun.">
 <!ENTITY filter.moveUp.label "Yukarıya taşı">

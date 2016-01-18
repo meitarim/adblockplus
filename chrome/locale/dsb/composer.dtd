@@ -13,19 +13,19 @@
 <!ENTITY custom.pattern.label "&amp;Swójski:">
 <!ENTITY unselectAllTypes.label "Žeden wubraś">
 <!ENTITY type.whitelist.label "&amp;Wuwześowe pšawidło">
-<!ENTITY regexp.warning "Muster, kótaryž sćo zapódał, buźo se ako regularny wuraz interpretěrowaś, kótaryž njedajo se pśez Adblocky statkownje pśeźěłaś a mógł waš wobglědowak spomałšyś. Jolic njocośo regularny wuraz wužywaś, pśidajśo gwězdku (*) ke kóńcoju mustra.">
-<!ENTITY dialog.title "Filtrowe pšawidło Adblocky pśidaś">
+<!ENTITY regexp.warning "Muster, kótaryž sćo zapódał, buźo se ako regularny wuraz interpretěrowaś, kótaryž njedajo se pśez Community Adblock statkownje pśeźěłaś a mógł waš wobglědowak spomałšyś. Jolic njocośo regularny wuraz wužywaś, pśidajśo gwězdku (*) ke kóńcoju mustra.">
+<!ENTITY dialog.title "Filtrowe pšawidło Community Adblock pśidaś">
 <!ENTITY basic.label "Zakładny naglěd">
 <!ENTITY type.filter.label "&amp;Blokěrujucy filter">
 <!ENTITY types.label "Na typy nałožyś:">
-<!ENTITY shortpattern.warning "Muster, kótaryž sćo zapódał, jo za optiměrowanje pśekrotko a mógł waš wobglědowak spomałšyś. Pśiraźujo se, až wubjerjośo dlěšy znamuškowy rjeśazk za toś ten filter, aby wy Adblocky dowólił, filter statkownjej pśeźěłał.">
+<!ENTITY shortpattern.warning "Muster, kótaryž sćo zapódał, jo za optiměrowanje pśekrotko a mógł waš wobglědowak spomałšyś. Pśiraźujo se, až wubjerjośo dlěšy znamuškowy rjeśazk za toś ten filter, aby wy Community Adblock dowólił, filter statkownjej pśeźěłał.">
 <!ENTITY collapse.yes.label "Jo">
 <!ENTITY anchors.label "Jano muster akceptěrowaś:">
 <!ENTITY collapse.default.yes.label "Standard wužywaś (jo)">
 <!ENTITY domainRestriction.help "Wužyjśo toś tu opciju, aby wy pódał jadnu domenu abo někotare domeny, kótarež wótdźěluju se pśez wertikalnu ceru (|). Filter buźo se jano na wubrane domeny nałožowaś. Tilda (~) pśed domenowym mjenim pódawa, až filter njebuźo se na tu domenu nałožowaś.">
 <!ENTITY accept.label "Filter pśidaś">
 <!ENTITY options.label "Opcije">
-<!ENTITY disabled.warning "Adblocky jo tuchylu znjemóžnjony. Móžośo hyšći filtry pśidaś, ale njebudu se nałožowaś, snaźkuli [link]zmóžnijośo Adblocky[/link].">
+<!ENTITY disabled.warning "Community Adblock jo tuchylu znjemóžnjony. Móžośo hyšći filtry pśidaś, ale njebudu se nałožowaś, snaźkuli [link]zmóžnijośo Community Adblock[/link].">
 <!ENTITY anchor.start.flexible.label "na zac&amp;hopjeńku mjenja domeny">
 <!ENTITY collapse.no.label "Ně">
 <!ENTITY selectAllTypes.label "Wšykne wubraś">

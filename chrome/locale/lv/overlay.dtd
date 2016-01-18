@@ -1,30 +1,30 @@
 <!ENTITY notification.button.no "&amp; Nē">
-<!ENTITY sync.label "Sinhronizet Adblocky uzstādījumus">
+<!ENTITY sync.label "Sinhronizet Community Adblock uzstādījumus">
 <!ENTITY whitelist.site.label "Atspējot uz ?1?">
 <!ENTITY filters.label "Filtra preferences">
 <!ENTITY disable.label "Atspējot visur">
 <!ENTITY objecttab.title "Bloķēt">
-<!ENTITY objecttab.tooltip "Noklikšķiniet šeit, lai bloķētu šo objektu ar Adblocky">
-<!ENTITY menuitem.label "Adblocky Iestatījumi">
+<!ENTITY objecttab.tooltip "Noklikšķiniet šeit, lai bloķētu šo objektu ar Community Adblock">
+<!ENTITY menuitem.label "Community Adblock Iestatījumi">
 <!ENTITY objecttabs.label "Rādī&amp;t cilnes Flash un Java">
 <!ENTITY sendReport.label "&amp;Ziņot par problēmām šajā lapā">
 <!ENTITY whitelist.page.label "Atspējot tikai šajā lapā">
-<!ENTITY context.image.label "Adblocky: Bloķēt attēlu">
+<!ENTITY context.image.label "Community Adblock: Bloķēt attēlu">
 <!ENTITY notification.button.yes "&amp; Jā">
 <!ENTITY opensidebar.label "Atvērt bloķējamās vienības">
 <!ENTITY notification.button.close "&amp; Aizvērt">
-<!ENTITY contribute.label "Palīdziet Adblocky veidošanai, tulkošanai...">
-<!ENTITY toolbarbutton.label "Adblocky">
-<!ENTITY context.frame.label "Adblocky: Bloķēt rāmi">
+<!ENTITY contribute.label "Palīdziet Community Adblock veidošanai, tulkošanai...">
+<!ENTITY toolbarbutton.label "Community Adblock">
+<!ENTITY context.frame.label "Community Adblock: Bloķēt rāmi">
 <!ENTITY blocked.tooltip "Bloķētās vienības šajā lapā:">
 <!ENTITY counthits.label "Skaitīt filtra izmantojumus">
 <!ENTITY showinstatusbar.label "Rādīt stāvokļa joslā">
 <!ENTITY sidebar.title "Bloķējamās vienības šajā lapā">
 <!ENTITY options.label "Iespējas">
-<!ENTITY context.object.label "Adblocky: Bloķēt objektu">
-<!ENTITY context.removeWhitelist.label "Adblocky: Iespējot šajā lapā">
+<!ENTITY context.object.label "Community Adblock: Bloķēt objektu">
+<!ENTITY context.removeWhitelist.label "Community Adblock: Iespējot šajā lapā">
 <!ENTITY filters.tooltip "Visaktīvākie filtri:">
 <!ENTITY closesidebar.label "Aizvērt bloķējamās vienības">
 <!ENTITY showintoolbar.label "Rādīt rīkjoslā">
 <!ENTITY status.tooltip "Statuss:">
-<!ENTITY context.media.label "Adblocky: Bloķēt audio/video">
+<!ENTITY context.media.label "Community Adblock: Bloķēt audio/video">

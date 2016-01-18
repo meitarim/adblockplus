@@ -5,29 +5,29 @@
 <!ENTITY filters.label "&amp;Filtrų nustatymai">
 <!ENTITY disable.label "Išjungti visur">
 <!ENTITY objecttab.title "Blokuoti">
-<!ENTITY objecttab.tooltip "Spragtelėkite čia norėdami užblokuoti šį objektą su „Adblocky“">
-<!ENTITY menuitem.label "„&amp;Adblocky“ nustatymai">
+<!ENTITY objecttab.tooltip "Spragtelėkite čia norėdami užblokuoti šį objektą su „Community Adblock“">
+<!ENTITY menuitem.label "„&amp;Community Adblock“ nustatymai">
 <!ENTITY objecttabs.label "Rodyti korteles &amp;Flash ir Java elementams">
 <!ENTITY sendReport.label "P&amp;ranešti apie problemą šiame puslapyje">
 <!ENTITY whitelist.page.label "Išjungti šiam tinklalapiui">
-<!ENTITY context.image.label "„Adblocky“: Blokuoti paveikslėlį">
+<!ENTITY context.image.label "„Community Adblock“: Blokuoti paveikslėlį">
 <!ENTITY notification.button.yes "&amp;Taip">
 <!ENTITY opensidebar.label "Atverti &amp;blokuojamus elementus">
 <!ENTITY notification.button.close "&amp;Uždaryti">
 <!ENTITY shownotifications.label "Rodyti naudingus &amp;pranešimus">
-<!ENTITY contribute.label "Prisidėti prie Adblocky">
-<!ENTITY toolbarbutton.label "„Adblocky“">
-<!ENTITY context.frame.label "„Adblocky“: Blokuoti kadrą">
+<!ENTITY contribute.label "Prisidėti prie Community Adblock">
+<!ENTITY toolbarbutton.label "„Community Adblock“">
+<!ENTITY context.frame.label "„Community Adblock“: Blokuoti kadrą">
 <!ENTITY blocked.tooltip "Šiame tinklalapyje užblokuoti elementai:">
 <!ENTITY notification.closing.button.optout "&amp;Neberodyti pranešimų">
 <!ENTITY counthits.label "Sus&amp;kaičiuoti filtro blokavimus">
 <!ENTITY showinstatusbar.label "Rodyti &amp;būsenos juostoje">
 <!ENTITY sidebar.title "Blokuojami elementai dabartiniame tinklalapyje">
 <!ENTITY options.label "&amp;Pasirinktys">
-<!ENTITY context.object.label "„Adblocky“: Blokuoti objektą">
-<!ENTITY context.removeWhitelist.label "„Adblocky“: iš naujo įjungti šiame puslapyje">
+<!ENTITY context.object.label "„Community Adblock“: Blokuoti objektą">
+<!ENTITY context.removeWhitelist.label "„Community Adblock“: iš naujo įjungti šiame puslapyje">
 <!ENTITY filters.tooltip "Aktyviausi filtrai:">
 <!ENTITY closesidebar.label "Užverti &amp;blokuojamus elementus">
 <!ENTITY showintoolbar.label "&amp;Rodyti priemonių juostoje">
 <!ENTITY status.tooltip "Būsena:">
-<!ENTITY context.media.label "„Adblocky“: Blokuoti audio/video">
+<!ENTITY context.media.label "„Community Adblock“: Blokuoti audio/video">

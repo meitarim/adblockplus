@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;Nu">
-<!ENTITY sync.label "Si&amp;ncronizează setările Adblocky">
-<!ENTITY whitelist.site.label "Dezactivează Adblocky pe ?1?">
+<!ENTITY sync.label "Si&amp;ncronizează setările Community Adblock">
+<!ENTITY whitelist.site.label "Dezactivează Community Adblock pe ?1?">
 <!ENTITY notification.closing.button.hide "Închideţi aceas&amp;tă notificare">
 <!ENTITY filters.label "Pre&amp;ferințe filtre">
 <!ENTITY disable.label "Dezactivează peste tot">
 <!ENTITY objecttab.title "Blochează">
-<!ENTITY objecttab.tooltip "Click aici pentru a bloca obiectul utilizând Adblocky">
-<!ENTITY menuitem.label "&amp;Adblocky">
+<!ENTITY objecttab.tooltip "Click aici pentru a bloca obiectul utilizând Community Adblock">
+<!ENTITY menuitem.label "&amp;Community Adblock">
 <!ENTITY objecttabs.label "Arată &amp;panouri lângă Flash şi Java">
 <!ENTITY sendReport.label "Rapor&amp;tează probleme pe această pagină">
-<!ENTITY whitelist.page.label "Dezactivează Adblocky doar pe pagina curentă">
-<!ENTITY context.image.label "Adblocky: blochează imagine">
+<!ENTITY whitelist.page.label "Dezactivează Community Adblock doar pe pagina curentă">
+<!ENTITY context.image.label "Community Adblock: blochează imagine">
 <!ENTITY notification.button.yes "&amp;Da">
 <!ENTITY opensidebar.label "Deschide &amp;lista elementelor blocabile">
 <!ENTITY notification.button.close "În&amp;chide">
 <!ENTITY shownotifications.label "Arată &amp;notificări utile">
-<!ENTITY contribute.label "Contribuie la Adblocky">
-<!ENTITY toolbarbutton.label "Adblocky">
-<!ENTITY context.frame.label "Adblocky: blochează cadru">
+<!ENTITY contribute.label "Contribuie la Community Adblock">
+<!ENTITY toolbarbutton.label "Community Adblock">
+<!ENTITY context.frame.label "Community Adblock: blochează cadru">
 <!ENTITY blocked.tooltip "Elemente blocate în pagină:">
 <!ENTITY notification.closing.button.optout "&amp;Opreşte afişarea notificărilor">
 <!ENTITY counthits.label "Înre&amp;gistrează statisticile filtrelor">
 <!ENTITY showinstatusbar.label "Arată în bara de &amp;stare">
-<!ENTITY sidebar.title "Adblocky: elemente blocabile în pagină">
+<!ENTITY sidebar.title "Community Adblock: elemente blocabile în pagină">
 <!ENTITY options.label "&amp;Opţiuni">
-<!ENTITY context.object.label "Adblocky: blochează obiect">
-<!ENTITY context.removeWhitelist.label "Adblocky: reactivează în pagina curentă">
+<!ENTITY context.object.label "Community Adblock: blochează obiect">
+<!ENTITY context.removeWhitelist.label "Community Adblock: reactivează în pagina curentă">
 <!ENTITY filters.tooltip "Cele mai active filtre:">
 <!ENTITY closesidebar.label "Închide &amp;lista elementelor blocabile">
 <!ENTITY showintoolbar.label "Arată în bara de &amp;unelte">
 <!ENTITY status.tooltip "Stare:">
-<!ENTITY context.media.label "Adblocky: blochează audio/video">
+<!ENTITY context.media.label "Community Adblock: blochează audio/video">

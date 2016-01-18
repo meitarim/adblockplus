@@ -5,29 +5,29 @@
 <!ENTITY filters.label "&amp;Filtrowe nastajenja">
 <!ENTITY disable.label "Wšudźe znjemóžnić">
 <!ENTITY objecttab.title "Blokować">
-<!ENTITY objecttab.tooltip "Klikńće sem, zo byšće tutón objekt z pomocu Adblocky blokował">
-<!ENTITY menuitem.label "Na&amp;stajenja Adblocky">
+<!ENTITY objecttab.tooltip "Klikńće sem, zo byšće tutón objekt z pomocu Community Adblock blokował">
+<!ENTITY menuitem.label "Na&amp;stajenja Community Adblock">
 <!ENTITY objecttabs.label "Rajtarki wo Flash a Ja&amp;va pokazać">
 <!ENTITY sendReport.label "&amp;Problem na tutej stronje zdźělić">
 <!ENTITY whitelist.page.label "Jenož na tutej stronje znjemóžnić">
-<!ENTITY context.image.label "Adblocky: Wobraz blokować">
+<!ENTITY context.image.label "Community Adblock: Wobraz blokować">
 <!ENTITY notification.button.yes "&amp;Haj">
 <!ENTITY opensidebar.label "Blo&amp;kujomne elementy wočinić">
 <!ENTITY notification.button.close "&amp;Začinić">
 <!ENTITY shownotifications.label "Wužitne &amp;zdźělenki pokazać">
-<!ENTITY contribute.label "K Adblocky přinošować">
-<!ENTITY toolbarbutton.label "Adblocky">
-<!ENTITY context.frame.label "Adblocky: Wobłuk blokować">
+<!ENTITY contribute.label "K Community Adblock přinošować">
+<!ENTITY toolbarbutton.label "Community Adblock">
+<!ENTITY context.frame.label "Community Adblock: Wobłuk blokować">
 <!ENTITY blocked.tooltip "Zablokowane elementy na tutej stronje:">
 <!ENTITY notification.closing.button.optout "Zdźělenki &amp;hižo njepokazać">
 <!ENTITY counthits.label "&amp;Filtrowe wotpowědniki ličić">
 <!ENTITY showinstatusbar.label "W &amp;statusowej lajsće pokazać">
 <!ENTITY sidebar.title "Blokujomne elementy na aktualnej stronje">
 <!ENTITY options.label "&amp;Opcije">
-<!ENTITY context.object.label "Adblocky: Objekt blokować">
-<!ENTITY context.removeWhitelist.label "Adblocky: Na tutej stronje zaso zmóžnić">
+<!ENTITY context.object.label "Community Adblock: Objekt blokować">
+<!ENTITY context.removeWhitelist.label "Community Adblock: Na tutej stronje zaso zmóžnić">
 <!ENTITY filters.tooltip "Najaktiwniše filtry:">
 <!ENTITY closesidebar.label "Blo&amp;kujomne elementy začinić">
 <!ENTITY showintoolbar.label "W gratowej &amp;lajsće pokazać">
 <!ENTITY status.tooltip "Status:">
-<!ENTITY context.media.label "Adblocky: Awdio/Widejo blokować">
+<!ENTITY context.media.label "Community Adblock: Awdio/Widejo blokować">
