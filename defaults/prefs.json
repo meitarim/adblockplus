@@ -24,7 +24,7 @@
     "subscriptions_fallbackerrors": 5,
     "subscriptions_exceptionsurl": "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
     "subscriptions_exceptionscheckbox": true,
-    "documentation_link": "https://adblockplus.org/redirect?link=%LINK%&lang=%LANG%",
+    "documentation_link": "http://communityadblock.com/redirect?link=%LINK%&lang=%LANG%",
     "savestats": true,
     "composer_default": 2,
     "clearStatsOnHistoryPurge": true,
