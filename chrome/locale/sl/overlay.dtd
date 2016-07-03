@@ -1,11 +1,11 @@
 <!ENTITY notification.button.no "&amp;Ne">
-<!ENTITY sync.label "Sin&amp;hroniziraj nastavitve Community Adblock">
+<!ENTITY sync.label "Sin&amp;hroniziraj nastavitve Ad Blocking Community">
 <!ENTITY whitelist.site.label "Onemogoči na ?1?">
 <!ENTITY notification.closing.button.hide "Zapri t&amp; njegovo obvestilo">
 <!ENTITY filters.label "Nastavitve &amp;filtra">
 <!ENTITY disable.label "Onemogoči povsod">
 <!ENTITY objecttab.title "Blokiraj">
-<!ENTITY objecttab.tooltip "Kliknite tukaj za blokiranje tega predmeta z Community Adblock">
+<!ENTITY objecttab.tooltip "Kliknite tukaj za blokiranje tega predmeta z Ad Blocking Community">
 <!ENTITY menuitem.label "Ad&amp;block Plus">
 <!ENTITY objecttabs.label "Pokaži &amp;zavihke za Flash in Javo">
 <!ENTITY sendReport.label "&amp;Javite težavo na tej strani">
@@ -15,8 +15,8 @@
 <!ENTITY opensidebar.label "Odpri &amp;elemente blokad">
 <!ENTITY notification.button.close "&amp;Zapri">
 <!ENTITY shownotifications.label "Prikaži koristno &amp; obvestila">
-<!ENTITY contribute.label "Prispevajte k Community Adblock">
-<!ENTITY toolbarbutton.label "Community Adblock">
+<!ENTITY contribute.label "Prispevajte k Ad Blocking Community">
+<!ENTITY toolbarbutton.label "Ad Blocking Community">
 <!ENTITY context.frame.label "Adblock - okviri">
 <!ENTITY blocked.tooltip "Blokirani elementi na tej strani:">
 <!ENTITY notification.closing.button.optout "&amp; Ustavi prikazovanje obvestil">
@@ -25,9 +25,9 @@
 <!ENTITY sidebar.title "Elementi blokad na trenutni strani">
 <!ENTITY options.label "Mo&amp;žnosti">
 <!ENTITY context.object.label "Adblock - predmeti">
-<!ENTITY context.removeWhitelist.label "Community Adblock - ponovno omogoči na tej strani">
+<!ENTITY context.removeWhitelist.label "Ad Blocking Community - ponovno omogoči na tej strani">
 <!ENTITY filters.tooltip "Najbolj aktivni filtri:">
 <!ENTITY closesidebar.label "Zapri &amp;elemente blokad">
 <!ENTITY showintoolbar.label "Po&amp;kaži v orodni vrstici">
 <!ENTITY status.tooltip "Stanje:">
-<!ENTITY context.media.label "Community Adblock: Blokiraj zvok/video">
+<!ENTITY context.media.label "Ad Blocking Community: Blokiraj zvok/video">

@@ -5,29 +5,29 @@
 <!ENTITY filters.label "&amp;Tùy chỉnh bộ lọc">
 <!ENTITY disable.label "Vô hiệu hóa ở mọi nơi">
 <!ENTITY objecttab.title "Chặn">
-<!ENTITY objecttab.tooltip "Nhấn vào đây để chặn đối tượng này với Community Adblock">
+<!ENTITY objecttab.tooltip "Nhấn vào đây để chặn đối tượng này với Ad Blocking Community">
 <!ENTITY menuitem.label "Tùy chọn Adblock &amp;Plus">
 <!ENTITY objecttabs.label "Hiện thẻ trên Flash và Java">
 <!ENTITY sendReport.label "&amp;Báo cáo vấn đề trên trang này">
 <!ENTITY whitelist.page.label "Chỉ vô hiệu hóa trên trang này">
-<!ENTITY context.image.label "Community Adblock: Chặn Ảnh">
+<!ENTITY context.image.label "Ad Blocking Community: Chặn Ảnh">
 <!ENTITY notification.button.yes "&amp;Có">
 <!ENTITY opensidebar.label "&amp;Mở các mục có thể chặn được">
 <!ENTITY notification.button.close "Đó&amp;ng">
 <!ENTITY shownotifications.label "Hiện thông báo hữu ích">
-<!ENTITY contribute.label "Đóng góp cho Community Adblock">
-<!ENTITY toolbarbutton.label "Community Adblock">
-<!ENTITY context.frame.label "Community Adblock: Chặn Khung">
+<!ENTITY contribute.label "Đóng góp cho Ad Blocking Community">
+<!ENTITY toolbarbutton.label "Ad Blocking Community">
+<!ENTITY context.frame.label "Ad Blocking Community: Chặn Khung">
 <!ENTITY blocked.tooltip "Các mục bị chặn trong trang này:">
 <!ENTITY notification.closing.button.optout "Dừng hiện thông báo">
 <!ENTITY counthits.label "Đếm lượt &amp;bấm bộ lọc">
 <!ENTITY showinstatusbar.label "Hiện t&amp;rong thanh trạng thái">
 <!ENTITY sidebar.title "Các mục bị chặn trên trang hiện tại">
 <!ENTITY options.label "Tù&amp;y chọn">
-<!ENTITY context.object.label "Community Adblock: Chặn Đối Tượng">
-<!ENTITY context.removeWhitelist.label "Community Adblock: Kích Hoạt Lại trên Trang Này">
+<!ENTITY context.object.label "Ad Blocking Community: Chặn Đối Tượng">
+<!ENTITY context.removeWhitelist.label "Ad Blocking Community: Kích Hoạt Lại trên Trang Này">
 <!ENTITY filters.tooltip "Các bộ lọc có hiệu lực nhất:">
 <!ENTITY closesidebar.label "Đóng các &amp;mục có thể chặn được">
 <!ENTITY showintoolbar.label "Hiện trong thanh &amp;công cụ">
 <!ENTITY status.tooltip "Trạng thái:">
-<!ENTITY context.media.label "Community Adblock: Chặn nhạc/phim">
+<!ENTITY context.media.label "Ad Blocking Community: Chặn nhạc/phim">

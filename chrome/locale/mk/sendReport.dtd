@@ -1,42 +1,42 @@
 <!ENTITY screenshot.undo.label "Врати">
 <!ENTITY issues.disabledgroups.description "Следниот филтер / групи на филтри се исклучени, но сепак е можно да влијаат на страницава:">
-<!ENTITY typeSelector.falsePositive.label "Community Adblock блокира премногу">
+<!ENTITY typeSelector.falsePositive.label "Ad Blocking Community блокира премногу">
 <!ENTITY issues.change.description "Твојата конфигурација е променета. Ве молиме повторно вчитајте ја страницата за да ги проверите промените и да поднесете извештај доколку проблемот не е решен по промените.">
 <!ENTITY issues.openPreferences.label "Отвори опции на филтер">
-<!ENTITY issues.nofilters.description "Community Adblock не блокира ништо на моменталната страница. Проблемот кој го разгледуваш веројатно не е поврзан со Community Adblock.">
-<!ENTITY typeSelector.other.description "Одбери ја опцијава доколку сметаш дека Community Adblock има грешка, наместо неговите филтери.">
+<!ENTITY issues.nofilters.description "Ad Blocking Community не блокира ништо на моменталната страница. Проблемот кој го разгледуваш веројатно не е поврзан со Ad Blocking Community.">
+<!ENTITY typeSelector.other.description "Одбери ја опцијава доколку сметаш дека Ad Blocking Community има грешка, наместо неговите филтери.">
 <!ENTITY issues.disabledgroups.enable.label "Вклучи филтер / група на филтри">
-<!ENTITY issues.disabled.enable.label "Вклучи го Community Adblock">
+<!ENTITY issues.disabled.enable.label "Вклучи го Ad Blocking Community">
 <!ENTITY update.fixed.description "Надградбата на вашите филтери веројатно го решила проблемот кој го пријавивте. Ве молиме повторно вчитајте ја страницата и обидете се повторно, доколку проблемот е присутен пријавете повторно.">
 <!ENTITY reloadButton.label "Освежи страна">
 <!ENTITY recentReports.clear.label "&amp;Отстрани ги сите извештаи">
-<!ENTITY typeSelector.description "Овој прозорец ќе Ве води преку чекорите потребни за пријавување на проблем со Community Adblock. Прво, одберете го видот на проблем кој го имате на оваа страна:">
+<!ENTITY typeSelector.description "Овој прозорец ќе Ве води преку чекорите потребни за пријавување на проблем со Ad Blocking Community. Прво, одберете го видот на проблем кој го имате на оваа страна:">
 <!ENTITY issues.ownfilters.description "Некои од применетите филтри се дефинирани од корисникот. Молиме да ги исклучите филтрите кои е можно да го предизвикуваат проблемот:">
-<!ENTITY update.inProgress.description "Community Adblock треба да ги ажурира твоите филтери за да потврди дека проблемот сè уште не е решен. Молиме почекајте...">
+<!ENTITY update.inProgress.description "Ad Blocking Community треба да ги ажурира твоите филтери за да потврди дека проблемот сè уште не е решен. Молиме почекајте...">
 <!ENTITY recentReports.label "Твојот неодамнешно испратен извештај">
-<!ENTITY typeWarning.description "Укажавте дека сакате на пријавите општ проблем со Community Adblock наместо проблем со филтрите. Молиме имајте предвид дека такви проблеми најдобро е да се пријават на [link]Community Adblock форумот[/link]. Треба да го користите пријавувачот на проблеми за дополнување на постоечка дискусија, бидејќи никој нема да го примети вашиот извештај сè додека не ги снабдите со врска. Автоматски генерираната врска ќе биде достапна по испраќањето на извештајот.">
-<!ENTITY issues.disabled.description "Community Adblock е исклучен, нема да блокира ништо во моменталната состојба.">
+<!ENTITY typeWarning.description "Укажавте дека сакате на пријавите општ проблем со Ad Blocking Community наместо проблем со филтрите. Молиме имајте предвид дека такви проблеми најдобро е да се пријават на [link]Ad Blocking Community форумот[/link]. Треба да го користите пријавувачот на проблеми за дополнување на постоечка дискусија, бидејќи никој нема да го примети вашиот извештај сè додека не ги снабдите со врска. Автоматски генерираната врска ќе биде достапна по испраќањето на извештајот.">
+<!ENTITY issues.disabled.description "Ad Blocking Community е исклучен, нема да блокира ништо во моменталната состојба.">
 <!ENTITY issues.nosubscriptions.add.label "Додај филтер">
 <!ENTITY issues.disabledfilters.enable.label "Вклучи филтер">
 <!ENTITY issues.override.label "&amp;конфигурацијата е точна, продолжи со извештајот">
 <!ENTITY issues.nosubscriptions.description "Изгледа немате одбрано ниеден од филтерите кои автоматски ја отстрануваат непотребната содржина од страниците.">
-<!ENTITY typeSelector.falsePositive.description "Одбери ја опцијава доколку на страницата недостасува важна содржина, прикажува неточно или не функционира соодветно. Ќе можеш да воочиш дали Community Adblock е причината за проблемот така што ќе го исклучиш привремено.">
+<!ENTITY typeSelector.falsePositive.description "Одбери ја опцијава доколку на страницата недостасува важна содржина, прикажува неточно или не функционира соодветно. Ќе можеш да воочиш дали Ad Blocking Community е причината за проблемот така што ќе го исклучиш привремено.">
 <!ENTITY typeSelector.other.label "Друг проблем">
-<!ENTITY issues.whitelist.remove.label "Вклучи го  Community Adblock на страницава">
+<!ENTITY issues.whitelist.remove.label "Вклучи го  Ad Blocking Community на страницава">
 <!ENTITY outdatedSubscriptions.description "Следниве филтери не се ажурирани најмалку две седмици. Ве молиме надградете ги пред да испратите извештај, можеби проблемот е веќе решен.">
-<!ENTITY dataCollector.description "Ве молиме почекајте додека Community Adblock не ги собере потребните податоци.">
+<!ENTITY dataCollector.description "Ве молиме почекајте додека Ad Blocking Community не ги собере потребните податоци.">
 <!ENTITY showRecentReports.label "Прикажи неодамнешни испратени извештаи">
 <!ENTITY commentPage.heading "Вметни коментар">
 <!ENTITY update.start.label "Започни надградба">
 <!ENTITY issues.disabledfilters.description "Следните филтри се исклучени, но сепак може на влијаат на страницава:">
-<!ENTITY issues.whitelist.description "Community Adblock е моментално исклучен на страницата која ја пријавувате. Ве молиме вклучете го и повторно вчитајте ја страницата пред да поднесете извештај за да помогнете во истражувањето на овој проблем.">
-<!ENTITY typeSelector.falseNegative.label "Community Adblock не блокира реклама">
+<!ENTITY issues.whitelist.description "Ad Blocking Community е моментално исклучен на страницата која ја пријавувате. Ве молиме вклучете го и повторно вчитајте ја страницата пред да поднесете извештај за да помогнете во истражувањето на овој проблем.">
+<!ENTITY typeSelector.falseNegative.label "Ad Blocking Community не блокира реклама">
 <!ENTITY typeSelector.heading "Одбери вид на проблем">
 <!ENTITY wizard.title "Репортер за грешки">
 <!ENTITY issues.ownfilters.disable.label "Исклучи филтер">
-<!ENTITY typeSelector.falseNegative.description "Одбери ја опцијата доколку е прикажана реклама и покрај тоа што Community Adblock е вклучен.">
+<!ENTITY typeSelector.falseNegative.description "Одбери ја опцијата доколку е прикажана реклама и покрај тоа што Ad Blocking Community е вклучен.">
 <!ENTITY dataCollector.heading "Добредојдовте во репортерот за грешки">
 <!ENTITY issues.subscriptionCount.description "Изгледа користиш премногу филтри. Оваа поставка не е препорачана бидејќи веројатноста од проблеми ќе ја зголеми. Исто така ние неможеме да го прифатиме вашиот извежтај за проблемот бидејќи е нејасно на чиј филтер авторот треба да преземе мерки. Ве молиме да ги отстраните сите филтри освен најпотребните и да проверите дали тогаш проблемот ќе биде присутен.">
 <!ENTITY screenshot.mark.label "Обележи проблем">
 <!ENTITY privacyPolicy.label "Политика за приватност">
-<!ENTITY issues.description "Community Adblock откри грешки со вашата конфигурација која може да е одговорна за проблемот или ќе го отежни истражувањето на извештајот.">
+<!ENTITY issues.description "Ad Blocking Community откри грешки со вашата конфигурација која може да е одговорна за проблемот или ќе го отежни истражувањето на извештајот.">

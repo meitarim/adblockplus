@@ -1,21 +1,21 @@
 <!ENTITY screenshot.undo.label "&amp;Отменить">
 <!ENTITY issues.disabledgroups.description "Следующие подписки / группы фильтров отключены, но могли бы повлиять на эту страницу:">
 <!ENTITY showData.label "Показать данные сообщения">
-<!ENTITY typeSelector.falsePositive.label "&amp;Community Adblock блокирует слишком многое">
+<!ENTITY typeSelector.falsePositive.label "&amp;Ad Blocking Community блокирует слишком многое">
 <!ENTITY issues.change.description "Ваши настройки изменились. Пожалуйста, обновите страницу для проверки
   внесённых изменений и отправьте сообщение, если проблема не разрешилась.">
 <!ENTITY email.label "E-&amp;mail:">
 <!ENTITY issues.openPreferences.label "Открыть настройки фильтров">
 <!ENTITY sendPage.confirmation "Сообщение отправлено и сохранено. Вы можете просмотреть его по следующей ссылке:">
 <!ENTITY copyLink.label "С&amp;копировать ссылку на сообщение">
-<!ENTITY issues.nofilters.description "Community Adblock ничего не блокирует на этой странице. Скорее всего, проблема,
-  которую вы наблюдаете, не связана с Community Adblock.">
+<!ENTITY issues.nofilters.description "Ad Blocking Community ничего не блокирует на этой странице. Скорее всего, проблема,
+  которую вы наблюдаете, не связана с Ad Blocking Community.">
 <!ENTITY sendPage.knownIssue "Возможно, что проблема, о которой вы сообщили, уже известна. Дополнительная информация:">
-<!ENTITY typeSelector.other.description "Если вы подозреваете, что проблема в самом расширении Community Adblock,
+<!ENTITY typeSelector.other.description "Если вы подозреваете, что проблема в самом расширении Ad Blocking Community,
   а не в его фильтрах, то выберите этот вариант.">
 <!ENTITY issues.disabledgroups.enable.label "Включить подписку / группу фильтров">
 <!ENTITY typeWarning.override.label "Я &amp;понял и, тем не менее, хочу отправить сообщение">
-<!ENTITY issues.disabled.enable.label "Включить Community Adblock">
+<!ENTITY issues.disabled.enable.label "Включить Ad Blocking Community">
 <!ENTITY update.fixed.description "Обновление ваших подписок на фильтры скорее всего решило проблему, о которой
   вы хотели сообщить. Пожалуйста, загрузите страницу заново и попробуйте ещё раз.
   Если проблема сохраняется,
@@ -23,23 +23,23 @@
 <!ENTITY anonymous.label "Отпр&amp;авить анонимно">
 <!ENTITY reloadButton.label "Об&amp;новить страницу">
 <!ENTITY recentReports.clear.label "&amp;Удалить все отчёты">
-<!ENTITY typeSelector.description "Мастер поможет вам отправить сообщение о проблеме с Community Adblock.
+<!ENTITY typeSelector.description "Мастер поможет вам отправить сообщение о проблеме с Ad Blocking Community.
   Пожалуйста, укажите на этой странице тип проблемы, с которой вы столкнулись:">
 <!ENTITY screenshot.remove.label "У&amp;далить конфиденциальные данные">
 <!ENTITY issues.ownfilters.description "Некоторые фильтры, которые применяются на этой странице, вы добавили сами.
   Пожалуйста, отключите фильтры, которые могли вызвать эту проблему:">
-<!ENTITY update.inProgress.description "Community Adblock должен обновить ваши подписки на фильтры, чтобы удостовериться,
+<!ENTITY update.inProgress.description "Ad Blocking Community должен обновить ваши подписки на фильтры, чтобы удостовериться,
   что проблема еще не была решена. Подождите, пожалуйста...">
 <!ENTITY sendPage.retry.label "Отправить еще раз">
 <!ENTITY data.label "Да&amp;нные сообщения:">
 <!ENTITY recentReports.label "Ваши недавно отправленные отчёты">
-<!ENTITY typeWarning.description "Вы указали, что хотите сообщить о проблеме в Community Adblock, а не в его фильтрах.
+<!ENTITY typeWarning.description "Вы указали, что хотите сообщить о проблеме в Ad Blocking Community, а не в его фильтрах.
   Пожалуйста, учтите, что о таких проблемах лучше сообщать на
-  [link]форуме Community Adblock[/link]. Мастер отправки сообщения следует
+  [link]форуме Ad Blocking Community[/link]. Мастер отправки сообщения следует
   использовать лишь для добавления информации к обсуждению на форуме, поскольку
   никто не увидит ваше сообщение, если не оставить на него ссылку. Вы
   получите автоматически созданную ссылку после отправки сообщения.">
-<!ENTITY issues.disabled.description "Community Adblock отключён и ничего не блокирует в этом состоянии.">
+<!ENTITY issues.disabled.description "Ad Blocking Community отключён и ничего не блокирует в этом состоянии.">
 <!ENTITY attachExtensions.label "П&amp;рикрепить список включенных расширений к сообщению на случай, если проблема вызвана конфликтом расширений">
 <!ENTITY issues.nosubscriptions.add.label "Добавить подписку">
 <!ENTITY issues.disabledfilters.enable.label "Включить фильтр">
@@ -48,20 +48,20 @@
   блокируют нежелательные элементы страниц.">
 <!ENTITY typeSelector.falsePositive.description "Если на странице отсутствуют важные части содержимого, а также если она
   отображается или функционирует неправильно, то следует выбрать этот вариант.
-  Вы можете проверить, является ли Community Adblock источником проблемы, временно
+  Вы можете проверить, является ли Ad Blocking Community источником проблемы, временно
   отключив его.">
 <!ENTITY typeSelector.other.label "&amp;Другая проблема">
 <!ENTITY emailComment.label "Мы рекомендуем ввести e-mail адрес, по которому мы могли бы связаться в случает вопросов по вашему сообщению. Это также позволит нам обрабатывать его в предпочтительном порядке, если были качественные предыдущие сообщения.">
-<!ENTITY issues.whitelist.remove.label "Включить Community Adblock на этой странице">
+<!ENTITY issues.whitelist.remove.label "Включить Ad Blocking Community на этой странице">
 <!ENTITY outdatedSubscriptions.description "Следующие подписки на фильтры не обновлялись более двух недель. Пожалуйста,
   обновите эти подписки перед отправкой отчёта, поскольку проблема уже
   может быть решена.">
-<!ENTITY dataCollector.description "Пожалуйста, подождите несколько секунд, пока Community Adblock собирает нужные данные.">
+<!ENTITY dataCollector.description "Пожалуйста, подождите несколько секунд, пока Ad Blocking Community собирает нужные данные.">
 <!ENTITY sendButton.label "От&amp;править сообщение">
 <!ENTITY comment.label "&amp;Комментарий (необязательно):">
 <!ENTITY sendPage.errorMessage "Ошибка отправки сообщения: «?1?». Пожалуйста,
   удостоверьтесь, что ваше соединение с сетью Интернет работает, и попробуйте еще раз.
-  Если проблема остается, обратитесь в [link]форум Community Adblock[/link].">
+  Если проблема остается, обратитесь в [link]форум Ad Blocking Community[/link].">
 <!ENTITY showRecentReports.label "Показать недавно отправленные отчёты">
 <!ENTITY commentPage.heading "Комментарий">
 <!ENTITY update.start.label "Обновить подписки">
@@ -71,10 +71,10 @@
   или пометить область снимка, в которой проявляется проблема. Для этого
   нажмите на соответствующую кнопку и выберите мышкой часть снимка.">
 <!ENTITY screenshot.attach.label "При&amp;крепить снимок экрана к сообщению">
-<!ENTITY issues.whitelist.description "Community Adblock отключён на странице, о которой вы собираетесь сообщить. Пожалуйста,
-  включите Community Adblock и обновите страницу, прежде чем посылать сообщение.
+<!ENTITY issues.whitelist.description "Ad Blocking Community отключён на странице, о которой вы собираетесь сообщить. Пожалуйста,
+  включите Ad Blocking Community и обновите страницу, прежде чем посылать сообщение.
   Это поможет рассмотрению вашего сообщения.">
-<!ENTITY typeSelector.falseNegative.label "&amp;Community Adblock не блокирует рекламу">
+<!ENTITY typeSelector.falseNegative.label "&amp;Ad Blocking Community не блокирует рекламу">
 <!ENTITY typeSelector.heading "Выбор типа проблемы">
 <!ENTITY anonymity.warning "Мы не сможем связаться с вами и, вероятно, уделим меньше внимания Вашему сообщению.">
 <!ENTITY wizard.title "Сообщить о проблеме">
@@ -84,9 +84,9 @@
   Также вы можете проверить данные сообщения, прежде чем оно будет
   отправлено.">
 <!ENTITY comment.lengthWarning "Длина комментария превышает 1000 символов. Только первые 1000 символов будут отправлены.">
-<!ENTITY typeSelector.falseNegative.description "Если несмотря на то, что Community Adblock включен, на странице отображается реклама,
+<!ENTITY typeSelector.falseNegative.description "Если несмотря на то, что Ad Blocking Community включен, на странице отображается реклама,
   то следует выбрать этот вариант.">
-<!ENTITY sendPage.waitMessage "Пожалуйста, подождите, пока Community Adblock отправляет ваше сообщение.">
+<!ENTITY sendPage.waitMessage "Пожалуйста, подождите, пока Ad Blocking Community отправляет ваше сообщение.">
 <!ENTITY dataCollector.heading "Добро пожаловать в мастер отправки отчётов">
 <!ENTITY screenshot.heading "Снимок экрана">
 <!ENTITY sendPage.heading "Отправка сообщения">
@@ -97,5 +97,5 @@
   действительно нужных. После этого проверьте, проявляется ли ещё проблема.">
 <!ENTITY screenshot.mark.label "&amp;Пометить проблему">
 <!ENTITY privacyPolicy.label "Политика конфиденциальности">
-<!ENTITY issues.description "Community Adblock обнаружил проблемы в ваших настройках, которые, возможно, вызвали
+<!ENTITY issues.description "Ad Blocking Community обнаружил проблемы в ваших настройках, которые, возможно, вызвали
   данную проблему или усложнят рассмотрение вашего отчёта.">

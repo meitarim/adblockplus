@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;Ei">
-<!ENTITY sync.label "Sün&amp;kroniseeri Community Adblock sätted">
+<!ENTITY sync.label "Sün&amp;kroniseeri Ad Blocking Community sätted">
 <!ENTITY whitelist.site.label "Keela domeenis ?1?">
 <!ENTITY notification.closing.button.hide "Sulge &amp;teade">
 <!ENTITY filters.label "Filtrite sätted">
 <!ENTITY disable.label "Keela kõikjal">
 <!ENTITY objecttab.title "Blokeeri">
-<!ENTITY objecttab.tooltip "Klõpsa siia selle objekti blokeerimiseks Community Adblocki abil">
-<!ENTITY menuitem.label "Community Adblocki sätted">
+<!ENTITY objecttab.tooltip "Klõpsa siia selle objekti blokeerimiseks Ad Blocking Communityi abil">
+<!ENTITY menuitem.label "Ad Blocking Communityi sätted">
 <!ENTITY objecttabs.label "Näita Flash ja Java objektidel sakke">
 <!ENTITY sendReport.label "&amp;Teata probleemist antud lehel">
 <!ENTITY whitelist.page.label "Keela ainult antud lehel">
-<!ENTITY context.image.label "Community Adblock: Blokeeri pilt">
+<!ENTITY context.image.label "Ad Blocking Community: Blokeeri pilt">
 <!ENTITY notification.button.yes "&amp;Jah">
 <!ENTITY opensidebar.label "Ava blokeeritavad elemendid">
 <!ENTITY notification.button.close "&amp;Sulge">
 <!ENTITY shownotifications.label "Näita &amp;kasulikke teateid">
-<!ENTITY contribute.label "Toeta Community Adblock'i">
-<!ENTITY toolbarbutton.label "Community Adblock">
-<!ENTITY context.frame.label "Community Adblock: Blokeeri raam">
+<!ENTITY contribute.label "Toeta Ad Blocking Community'i">
+<!ENTITY toolbarbutton.label "Ad Blocking Community">
+<!ENTITY context.frame.label "Ad Blocking Community: Blokeeri raam">
 <!ENTITY blocked.tooltip "Blokeeritud elemendid antud lehel:">
 <!ENTITY notification.closing.button.optout "E&amp;nam ei näidata teateid">
 <!ENTITY counthits.label "Loenda &amp;filtrite tabamusi">
 <!ENTITY showinstatusbar.label "Näita &amp;olekuribal">
 <!ENTITY sidebar.title "Blokeeritavad elemendid antud lehel">
 <!ENTITY options.label "V&amp;alikud">
-<!ENTITY context.object.label "Community Adblock: Blokeeri objekt">
-<!ENTITY context.removeWhitelist.label "Community Adblock: Luba uuesti antud lehel">
+<!ENTITY context.object.label "Ad Blocking Community: Blokeeri objekt">
+<!ENTITY context.removeWhitelist.label "Ad Blocking Community: Luba uuesti antud lehel">
 <!ENTITY filters.tooltip "Kõige aktiivsemad filtrid:">
 <!ENTITY closesidebar.label "Sulge blokeeritavad elemendid">
 <!ENTITY showintoolbar.label "Nä&amp;ita tööriistade menüüs">
 <!ENTITY status.tooltip "Olek:">
-<!ENTITY context.media.label "Community Adblock: Blokeeri audio/video">
+<!ENTITY context.media.label "Ad Blocking Community: Blokeeri audio/video">

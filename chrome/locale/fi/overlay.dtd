@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;Ei">
-<!ENTITY sync.label "&amp;Synkronoi Community Adblocksan asetukset">
+<!ENTITY sync.label "&amp;Synkronoi Ad Blocking Communitysan asetukset">
 <!ENTITY whitelist.site.label "Ei käytössä osoitteessa ?1?">
 <!ENTITY notification.closing.button.hide "Sulje tämä i&amp;lmoitus">
 <!ENTITY filters.label "&amp;Suodatinasetukset">
 <!ENTITY disable.label "Poista käytöstä kaikkialla">
 <!ENTITY objecttab.title "Estä">
-<!ENTITY objecttab.tooltip "Estä tämä objekti Community Adblocksalla">
+<!ENTITY objecttab.tooltip "Estä tämä objekti Ad Blocking Communitysalla">
 <!ENTITY menuitem.label "Ad&amp;block Plus -asetukset">
 <!ENTITY objecttabs.label "&amp;Korvake Flashin ja Javan yhteydessä">
 <!ENTITY sendReport.label "Raportoi onge&amp;lma tällä sivulla">
 <!ENTITY whitelist.page.label "Ei käytössä tällä sivulla">
-<!ENTITY context.image.label "Community Adblock: Estä kuva">
+<!ENTITY context.image.label "Ad Blocking Community: Estä kuva">
 <!ENTITY notification.button.yes "&amp;Kyllä">
 <!ENTITY opensidebar.label "Näytä &amp;elementit">
 <!ENTITY notification.button.close "&amp;Sulje">
 <!ENTITY shownotifications.label "Näytä hyödylliset &amp;ilmoitukset">
-<!ENTITY contribute.label "Avusta Community Adblocksaa">
-<!ENTITY toolbarbutton.label "Community Adblock">
-<!ENTITY context.frame.label "Community Adblock: Estä kehys">
+<!ENTITY contribute.label "Avusta Ad Blocking Communitysaa">
+<!ENTITY toolbarbutton.label "Ad Blocking Community">
+<!ENTITY context.frame.label "Ad Blocking Community: Estä kehys">
 <!ENTITY blocked.tooltip "Estetyt elementit tällä sivulla:">
 <!ENTITY notification.closing.button.optout "L&amp;opeta ilmoitusten näyttäminen">
 <!ENTITY counthits.label "&amp;Laske suodattimen osumat">
 <!ENTITY showinstatusbar.label "&amp;Näytä tilarivillä">
 <!ENTITY sidebar.title "Estettävät elementit tällä sivulla">
 <!ENTITY options.label "&amp;Valinnat">
-<!ENTITY context.object.label "Community Adblock: Estä kohde">
-<!ENTITY context.removeWhitelist.label "Community Adblock: Ota uudelleen käyttöön tällä sivulla">
+<!ENTITY context.object.label "Ad Blocking Community: Estä kohde">
+<!ENTITY context.removeWhitelist.label "Ad Blocking Community: Ota uudelleen käyttöön tällä sivulla">
 <!ENTITY filters.tooltip "Aktiivisimmat suodattimet:">
 <!ENTITY closesidebar.label "Sulj&amp;e elementit">
 <!ENTITY showintoolbar.label "Nä&amp;ytä työkalupalkissa">
 <!ENTITY status.tooltip "Tila:">
-<!ENTITY context.media.label "Community Adblock: Estä ääni/kuva">
+<!ENTITY context.media.label "Ad Blocking Community: Estä ääni/kuva">

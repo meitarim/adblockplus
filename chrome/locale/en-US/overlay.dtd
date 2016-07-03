@@ -3,13 +3,13 @@
 <!ENTITY filters.tooltip        "Most active filters:">
 
 <!ENTITY menuitem.label         "Ad&amp;block Plus Preferences">
-<!ENTITY toolbarbutton.label    "Community Adblock">
+<!ENTITY toolbarbutton.label    "Ad Blocking Community">
 
-<!ENTITY context.image.label    "Community Adblock: Block image">
-<!ENTITY context.object.label   "Community Adblock: Block object">
-<!ENTITY context.frame.label    "Community Adblock: Block frame">
-<!ENTITY context.media.label    "Community Adblock: Block audio/video">
-<!ENTITY context.removeWhitelist.label  "Community Adblock: Re-enable on this page">
+<!ENTITY context.image.label    "Ad Blocking Community: Block image">
+<!ENTITY context.object.label   "Ad Blocking Community: Block object">
+<!ENTITY context.frame.label    "Ad Blocking Community: Block frame">
+<!ENTITY context.media.label    "Ad Blocking Community: Block audio/video">
+<!ENTITY context.removeWhitelist.label  "Ad Blocking Community: Re-enable on this page">
 
 <!ENTITY sidebar.title          "Blockable items on current page">
 
@@ -24,16 +24,16 @@
 <!ENTITY whitelist.page.label   "Disable on this page only">
 <!ENTITY disable.label          "Disable everywhere">
 <!ENTITY options.label          "&amp;Options">
-<!ENTITY contribute.label       "Contribute to Community Adblock">
+<!ENTITY contribute.label       "Contribute to Ad Blocking Community">
 
 <!ENTITY showintoolbar.label        "Show in tool&amp;bar">
 <!ENTITY showinstatusbar.label      "&amp;Show in status bar">
 <!ENTITY objecttabs.label           "Show &amp;tabs on Flash and Java">
 <!ENTITY counthits.label            "Count filter &amp;hits">
-<!ENTITY sync.label                 "Syn&amp;c Community Adblock settings">
+<!ENTITY sync.label                 "Syn&amp;c Ad Blocking Community settings">
 <!ENTITY shownotifications.label    "Show useful &amp;notifications">
 <!ENTITY objecttab.title        "Block">
-<!ENTITY objecttab.tooltip      "Click here to block this object with Community Adblock">
+<!ENTITY objecttab.tooltip      "Click here to block this object with Ad Blocking Community">
 
 <!ENTITY notification.button.yes       "&amp;Yes">
 <!ENTITY notification.button.no        "&amp;No">

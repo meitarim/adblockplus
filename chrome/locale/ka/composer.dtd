@@ -11,7 +11,7 @@
 <!ENTITY thirdParty.label "&amp;მესამე მხარე მხოლოდ">
 <!ENTITY unselectAllTypes.label "მონიშვნის გაუქმება">
 <!ENTITY type.whitelist.label "გა&amp;მონაკლისი წესი">
-<!ENTITY dialog.title "დაამატე Community Adblock ფილტრის წესი">
+<!ENTITY dialog.title "დაამატე Ad Blocking Community ფილტრის წესი">
 <!ENTITY basic.label "ძირითადი შესაძლებლობები">
 <!ENTITY type.filter.label "&amp;დაბლოკვის ფილტრი">
 <!ENTITY collapse.yes.label "დიახ">
@@ -21,7 +21,7 @@
 <!ENTITY domainRestriction.help "გამოიყენეთ ეს პარამეტრი რათა მიუთითოთ ერთი ან რამდენიმე დომენი გამოყოფილი ბარ ხაზით (|). ფილტრი მხოლოდ გამოიყენება მონიშნულ დომენზე(ებზე). ტო;და (~) დომენის სახელის წინ მიუთითებს რომ ფილტრი ამ დომენზე არ გამოიყენება.">
 <!ENTITY accept.label "ფილტრის დამატება">
 <!ENTITY options.label "პარამეტრები">
-<!ENTITY disabled.warning "Community Adblock ამჟამად გამორთულია. თქვენ შეგიძლიათ ფილტრების დამატება, მაგრამ ისინი არ იმოქმედებენ, სანამ თქვენ[link]არ ჩართავთ Community Adblock-ს[/link].">
+<!ENTITY disabled.warning "Ad Blocking Community ამჟამად გამორთულია. თქვენ შეგიძლიათ ფილტრების დამატება, მაგრამ ისინი არ იმოქმედებენ, სანამ თქვენ[link]არ ჩართავთ Ad Blocking Community-ს[/link].">
 <!ENTITY anchor.start.flexible.label "დომენის სახელის დასა&amp;წყისში">
 <!ENTITY collapse.no.label "არა">
 <!ENTITY selectAllTypes.label "ყველას მონიშვნა">

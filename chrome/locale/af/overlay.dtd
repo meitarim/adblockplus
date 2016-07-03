@@ -1,23 +1,23 @@
 <!ENTITY whitelist.site.label "Skakel af op ?1?">
 <!ENTITY filters.label "&amp;Filter voorkeure">
 <!ENTITY disable.label "Blok orals">
-<!ENTITY menuitem.label "Community Adblock Voorkeure">
+<!ENTITY menuitem.label "Ad Blocking Community Voorkeure">
 <!ENTITY objecttabs.label "Vertoon &amp;tabs op Flash en Java">
 <!ENTITY sendReport.label "&amp;Rapporteer probleem op hierdie blad">
 <!ENTITY whitelist.page.label "Blok voorwerpe slegs op hierdie blad">
-<!ENTITY context.image.label "Community Adblock: Blok prent">
+<!ENTITY context.image.label "Ad Blocking Community: Blok prent">
 <!ENTITY opensidebar.label "Oop &amp;blokbare voorwerpe">
-<!ENTITY contribute.label "Dra by tot Community Adblock">
-<!ENTITY toolbarbutton.label "Community Adblock">
-<!ENTITY context.frame.label "Community Adblock: Blok raam">
+<!ENTITY contribute.label "Dra by tot Ad Blocking Community">
+<!ENTITY toolbarbutton.label "Ad Blocking Community">
+<!ENTITY context.frame.label "Ad Blocking Community: Blok raam">
 <!ENTITY blocked.tooltip "Geblokteerde items op hierdie blad:">
 <!ENTITY showinstatusbar.label "&amp;Vertoon in Status balk">
 <!ENTITY sidebar.title "Blokbare voorwerpe op huidige blad">
 <!ENTITY options.label "&amp;Voorkeure">
-<!ENTITY context.object.label "Community Adblock: Blok voorwerp">
-<!ENTITY context.removeWhitelist.label "Staat Community Adblock weer in stel vir hierdie blad">
+<!ENTITY context.object.label "Ad Blocking Community: Blok voorwerp">
+<!ENTITY context.removeWhitelist.label "Staat Ad Blocking Community weer in stel vir hierdie blad">
 <!ENTITY filters.tooltip "Mees aktiewe filters:">
 <!ENTITY closesidebar.label "Toegemaakte &amp;blokbare voorwerpe">
 <!ENTITY showintoolbar.label "Vertoon op behulpmiddel&amp;balk">
 <!ENTITY status.tooltip "Status:">
-<!ENTITY context.media.label "Community Adblock: Blok audio/video">
+<!ENTITY context.media.label "Ad Blocking Community: Blok audio/video">

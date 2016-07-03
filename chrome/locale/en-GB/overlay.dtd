@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "No">
-<!ENTITY sync.label "Syn&amp;chronise Community Adblock settings">
+<!ENTITY sync.label "Syn&amp;chronise Ad Blocking Community settings">
 <!ENTITY whitelist.site.label "Disable on ?1?">
 <!ENTITY notification.closing.button.hide "Close t&amp;his notification">
 <!ENTITY filters.label "Filter preferences">
 <!ENTITY disable.label "Disable everywhere">
 <!ENTITY objecttab.title "Block">
-<!ENTITY objecttab.tooltip "Block this object with Community Adblock">
-<!ENTITY menuitem.label "Community Adblock Preferences">
+<!ENTITY objecttab.tooltip "Block this object with Ad Blocking Community">
+<!ENTITY menuitem.label "Ad Blocking Community Preferences">
 <!ENTITY objecttabs.label "Show tabs on Flash and Java">
 <!ENTITY sendReport.label "Report issue on this page">
 <!ENTITY whitelist.page.label "Disable on this page only">
-<!ENTITY context.image.label "Community Adblock: Block image">
+<!ENTITY context.image.label "Ad Blocking Community: Block image">
 <!ENTITY notification.button.yes "Yes">
 <!ENTITY opensidebar.label "Open blockable items">
 <!ENTITY notification.button.close "Close">
 <!ENTITY shownotifications.label "Show useful &amp;notifications">
-<!ENTITY contribute.label "Contribute to Community Adblock">
-<!ENTITY toolbarbutton.label "Community Adblock">
-<!ENTITY context.frame.label "Community Adblock: Block frame">
+<!ENTITY contribute.label "Contribute to Ad Blocking Community">
+<!ENTITY toolbarbutton.label "Ad Blocking Community">
+<!ENTITY context.frame.label "Ad Blocking Community: Block frame">
 <!ENTITY blocked.tooltip "Blocked items on this page:">
 <!ENTITY notification.closing.button.optout "&amp;Stop showing notifications">
 <!ENTITY counthits.label "Count filter hits">
 <!ENTITY showinstatusbar.label "Show in status bar">
 <!ENTITY sidebar.title "Blockable items on current page">
 <!ENTITY options.label "Options">
-<!ENTITY context.object.label "Community Adblock: Block object">
-<!ENTITY context.removeWhitelist.label "Community Adblock: Re-enable on this page">
+<!ENTITY context.object.label "Ad Blocking Community: Block object">
+<!ENTITY context.removeWhitelist.label "Ad Blocking Community: Re-enable on this page">
 <!ENTITY filters.tooltip "Most active filters:">
 <!ENTITY closesidebar.label "Close blockable items">
 <!ENTITY showintoolbar.label "Show in toolbar">
 <!ENTITY status.tooltip "Status:">
-<!ENTITY context.media.label "Community Adblock: Block audio/video">
+<!ENTITY context.media.label "Ad Blocking Community: Block audio/video">

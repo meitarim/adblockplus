@@ -1,12 +1,12 @@
 <!ENTITY notification.button.no "ไ&amp;ม่ใช่">
-<!ENTITY sync.label "เชื่อ&amp;มข้อมูลการตั้งค่า Community Adblock">
+<!ENTITY sync.label "เชื่อ&amp;มข้อมูลการตั้งค่า Ad Blocking Community">
 <!ENTITY whitelist.site.label "ปิดการใช้งาน ?1?">
 <!ENTITY notification.closing.button.hide "ปิดการแจ้งเตือนนี้">
 <!ENTITY filters.label "ตั้งค่าตัวกร&amp;อง">
 <!ENTITY disable.label "ปิดการใช้งานทุกที่">
 <!ENTITY objecttab.title "บล็อก">
-<!ENTITY objecttab.tooltip "คลิกที่นี่เพื่อบล็อกวัตถุนี้ด้วย Community Adblock">
-<!ENTITY menuitem.label "&amp;ปรับแต่ง Community Adblock">
+<!ENTITY objecttab.tooltip "คลิกที่นี่เพื่อบล็อกวัตถุนี้ด้วย Ad Blocking Community">
+<!ENTITY menuitem.label "&amp;ปรับแต่ง Ad Blocking Community">
 <!ENTITY objecttabs.label "แสดงแท็&amp;บบนแฟลชและจาวา">
 <!ENTITY sendReport.label "&amp;รายงานปัญหาที่พบในหน้านี้">
 <!ENTITY whitelist.page.label "ปิดการใช้งานเฉพาะหน้านี้">
@@ -15,8 +15,8 @@
 <!ENTITY opensidebar.label "เปิดราย&amp;การที่บล็อกได้">
 <!ENTITY notification.button.close "&amp;ปิด">
 <!ENTITY shownotifications.label "แสดงการแจ้งเตือนที่เป็นประโยชน์">
-<!ENTITY contribute.label "เข้ามีส่วนร่วมกับ Community Adblock">
-<!ENTITY toolbarbutton.label "Community Adblock">
+<!ENTITY contribute.label "เข้ามีส่วนร่วมกับ Ad Blocking Community">
+<!ENTITY toolbarbutton.label "Ad Blocking Community">
 <!ENTITY context.frame.label "Adblock เฟรม">
 <!ENTITY blocked.tooltip "สิ่งที่บล็อกในหน้านี้:">
 <!ENTITY notification.closing.button.optout "หยุดแสดงการแจ้งเตือน">
@@ -25,9 +25,9 @@
 <!ENTITY sidebar.title "รายการที่บล็อกได้ในหน้าล่าสุด">
 <!ENTITY options.label "ตั&amp;วเลือก">
 <!ENTITY context.object.label "Adblock วัตถุ">
-<!ENTITY context.removeWhitelist.label "Community Adblock: เปิดใช้งานอีกครั้งในหน้านี้">
+<!ENTITY context.removeWhitelist.label "Ad Blocking Community: เปิดใช้งานอีกครั้งในหน้านี้">
 <!ENTITY filters.tooltip "ตัวกรองที่ใช้งานมากที่สุด:">
 <!ENTITY closesidebar.label "ปิดราย&amp;การที่บล็อกได้">
 <!ENTITY showintoolbar.label "แสดงในแถบเ&amp;ครื่องมือ">
 <!ENTITY status.tooltip "สถานะ:">
-<!ENTITY context.media.label "Community Adblock: บล็อกเสียง/วีดิทัศน์">
+<!ENTITY context.media.label "Ad Blocking Community: บล็อกเสียง/วีดิทัศน์">

@@ -14,7 +14,7 @@
 <!ENTITY unselectAllTypes.label "Скинути все">
 <!ENTITY type.whitelist.label "Правило винятку">
 <!ENTITY regexp.warning "Шаблон що ви ввели буде інтерпретовано як регулярний вираз. Багато регулярних виразів можуть уповільнити перегляд сторінок. Додайте * на кінець шаблону якщо ви не збирались використовувати регулярний вираз.">
-<!ENTITY dialog.title "Додати правило фільтрування Community Adblock">
+<!ENTITY dialog.title "Додати правило фільтрування Ad Blocking Community">
 <!ENTITY basic.label "Простий вигляд">
 <!ENTITY type.filter.label "Правило &amp;блокування">
 <!ENTITY types.label "Застосовувати до об’єктів:">
@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Вкажіть один чи більше доменів, розділених символом „|“, фільтр буде застосовано лише на них. Символ „~“ перед іменем домена вказує що фільтр на цей домен не розповсюджується.">
 <!ENTITY accept.label "Додати фільтр">
 <!ENTITY options.label "Налаштування">
-<!ENTITY disabled.warning "Community Adblock наразі вимкнений. Ви можете додавати фільтри, але вони не будуть застосовуватися, доки Ви не [link]увімкнете Community Adblock[/link].">
+<!ENTITY disabled.warning "Ad Blocking Community наразі вимкнений. Ви можете додавати фільтри, але вони не будуть застосовуватися, доки Ви не [link]увімкнете Ad Blocking Community[/link].">
 <!ENTITY anchor.start.flexible.label "на &amp;початку імені домена">
 <!ENTITY collapse.no.label "Ні">
 <!ENTITY selectAllTypes.label "Вибрати все">

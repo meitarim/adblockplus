@@ -1,5 +1,5 @@
 <!ENTITY addMain.label "Filterabonnement &quot;?1?&quot; auc&amp;h hinzufügen">
-<!ENTITY list.download.failed "Community Adblock konnte die Liste der Filterabonnements nicht herunterladen.">
+<!ENTITY list.download.failed "Ad Blocking Community konnte die Liste der Filterabonnements nicht herunterladen.">
 <!ENTITY list.download.retry "Nochmal versuchen">
 <!ENTITY title.label "Be&amp;zeichnung des Abonnements:">
 <!ENTITY list.download.website "Zur Webseite wechseln">
@@ -7,6 +7,6 @@
 <!ENTITY viewList.label "Filter ansehen">
 <!ENTITY visitHomepage.label "Webseite der Filterliste besuchen">
 <!ENTITY addSubscription.label "Filterabonnement hinzufügen">
-<!ENTITY dialog.title "Filterabonnement für Community Adblock hinzufügen">
+<!ENTITY dialog.title "Filterabonnement für Ad Blocking Community hinzufügen">
 <!ENTITY location.label "Ad&amp;resse der Filterliste:">
 <!ENTITY fromWeb.description "Bitte bestätigen Sie, dass Sie dieses Filterabonnement hinzufügen möchten. Die Bezeichnung und Adresse der Abonnements können vor dem Hinzufügen geändert werden.">

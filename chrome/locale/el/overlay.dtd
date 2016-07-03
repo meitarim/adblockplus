@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;Όχι">
-<!ENTITY sync.label "Συγ&amp;χρονισμός των ρυθμίσεων του Community Adblock">
+<!ENTITY sync.label "Συγ&amp;χρονισμός των ρυθμίσεων του Ad Blocking Community">
 <!ENTITY whitelist.site.label "Απενεργοποίηση στο ?1?">
 <!ENTITY notification.closing.button.hide "&amp;Κλείσιμο της ειδοποίησης">
 <!ENTITY filters.label "Προτιμήσεις &amp;φίλτρων">
 <!ENTITY disable.label "Απενεργοποίηση παντού">
 <!ENTITY objecttab.title "Φραγή">
-<!ENTITY objecttab.tooltip "Κλικ εδώ για να φιλτράρετε αυτό το αντικείμενο με το Community Adblock">
+<!ENTITY objecttab.tooltip "Κλικ εδώ για να φιλτράρετε αυτό το αντικείμενο με το Ad Blocking Community">
 <!ENTITY menuitem.label "Ad&amp;block Plus">
 <!ENTITY objecttabs.label "Εμφάνιση ετικέτ&amp;ας σε αντικείμενα Flash και Java">
 <!ENTITY sendReport.label "Αναφο&amp;ρά προβλήματος σε αυτή την σελίδα">
 <!ENTITY whitelist.page.label "Απενεργοποίηση σε αυτή τη σελίδα μόνο">
-<!ENTITY context.image.label "Community Adblock: φραγή εικόνας">
+<!ENTITY context.image.label "Ad Blocking Community: φραγή εικόνας">
 <!ENTITY notification.button.yes "&amp;Ναι">
 <!ENTITY opensidebar.label "Άνοιγμ&amp;α των φιλτραρισμένων στοιχείων">
 <!ENTITY notification.button.close "&amp;Κλείσιμο">
 <!ENTITY shownotifications.label "Εμφάνιση χρήσιμων &amp;ειδοποιήσεων">
-<!ENTITY contribute.label "Συνεισφέρετε στο Community Adblock">
-<!ENTITY toolbarbutton.label "Community Adblock">
-<!ENTITY context.frame.label "Community Adblock: φραγή πλαισίου">
+<!ENTITY contribute.label "Συνεισφέρετε στο Ad Blocking Community">
+<!ENTITY toolbarbutton.label "Ad Blocking Community">
+<!ENTITY context.frame.label "Ad Blocking Community: φραγή πλαισίου">
 <!ENTITY blocked.tooltip "Στοιχεία που έχουν φραχθεί σε αυτή τη σελίδα:">
 <!ENTITY notification.closing.button.optout "&amp;Διακοπή εμφάνισης ειδοποιήσεων">
 <!ENTITY counthits.label "Κα&amp;ταμέτρηση επιτυχιών φίλτρων">
 <!ENTITY showinstatusbar.label "Εμφάνιση στην γραμμή &amp;κατάστασης">
 <!ENTITY sidebar.title "Στοιχεία προς φιλτράρισμα στην τρέχουσα σελίδα">
 <!ENTITY options.label "Επι&amp;λογές">
-<!ENTITY context.object.label "Community Adblock: φραγή αντικειμένου">
-<!ENTITY context.removeWhitelist.label "Community Adblock: Ενεργοποίηση σ' αυτή την σελίδα">
+<!ENTITY context.object.label "Ad Blocking Community: φραγή αντικειμένου">
+<!ENTITY context.removeWhitelist.label "Ad Blocking Community: Ενεργοποίηση σ' αυτή την σελίδα">
 <!ENTITY filters.tooltip "Φίλτρα με τις περισσότερες επιτυχίες:">
 <!ENTITY closesidebar.label "Κλείσιμο των φιλτρ&amp;αρισμένων στοιχείων">
 <!ENTITY showintoolbar.label "Εμφάνιση στην εργαλειο&amp;θήκη">
 <!ENTITY status.tooltip "Κατάσταση:">
-<!ENTITY context.media.label "Community Adblock: φραγή ήχου/βίντεο">
+<!ENTITY context.media.label "Ad Blocking Community: φραγή ήχου/βίντεο">

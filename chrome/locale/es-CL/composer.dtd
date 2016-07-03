@@ -13,19 +13,19 @@
 <!ENTITY custom.pattern.label "Personalizado:">
 <!ENTITY unselectAllTypes.label "No seleccionar ninguno">
 <!ENTITY type.whitelist.label "regla de excepción">
-<!ENTITY regexp.warning "el patrón que ha introducido sera interpretado como una expresion regular que no se puede procesar de manera eficiente por Community Adblock y puede ralentizar su experiencia de navegacion. Si no va a utilizar una expresion regular, añada un asterisco (*) al final del patrón.">
-<!ENTITY dialog.title "Añadir regla de filtrado de Community Adblock">
+<!ENTITY regexp.warning "el patrón que ha introducido sera interpretado como una expresion regular que no se puede procesar de manera eficiente por Ad Blocking Community y puede ralentizar su experiencia de navegacion. Si no va a utilizar una expresion regular, añada un asterisco (*) al final del patrón.">
+<!ENTITY dialog.title "Añadir regla de filtrado de Ad Blocking Community">
 <!ENTITY basic.label "Vista básica">
 <!ENTITY type.filter.label "filtro de bloqueo">
 <!ENTITY types.label "aplicar a">
-<!ENTITY shortpattern.warning "El patrón que has escrito es demasiado corta para ser optimizado y puede ralentizar su experiencia de navegación. Se recomienda que usted elige una cadena más larga para este filtro para permitir que Community Adblock para procesar el filtro de manera más eficiente.">
+<!ENTITY shortpattern.warning "El patrón que has escrito es demasiado corta para ser optimizado y puede ralentizar su experiencia de navegación. Se recomienda que usted elige una cadena más larga para este filtro para permitir que Ad Blocking Community para procesar el filtro de manera más eficiente.">
 <!ENTITY collapse.yes.label "Sí">
 <!ENTITY anchors.label "Acepta el único patrón:">
 <!ENTITY collapse.default.yes.label "Usar predeterminado (sí)">
 <!ENTITY domainRestriction.help "usa esta opcion para especificar un o varios dominios separados por ''|''. el filtro sólo se aplicara a los dominios seleccionados. el simbolo ''~'' antes de un dominio indica que no se le aplicara el filtro">
 <!ENTITY accept.label "Añadir filtro">
 <!ENTITY options.label "Opciones">
-<!ENTITY disabled.warning "Community Adblock está desactivado. Puede añadir filtros, pero no se aplicarán a menos que [link]active Community Adblock[/link].">
+<!ENTITY disabled.warning "Ad Blocking Community está desactivado. Puede añadir filtros, pero no se aplicarán a menos que [link]active Ad Blocking Community[/link].">
 <!ENTITY anchor.start.flexible.label "&amp;ir al principio del nombre de dominio">
 <!ENTITY collapse.no.label "No">
 <!ENTITY selectAllTypes.label "Seleccionar todos">

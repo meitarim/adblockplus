@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Agoj">
 <!ENTITY filter.selectAll.label "Elekti ĉion">
 <!ENTITY backupButton.label "Se&amp;kurkopii kaj restaŭri">
-<!ENTITY restore.minVersion.warning "Averto: la dosiero estas kreita per pli nova versio de Community Adblock. Vi ĝisdatigu al la plej nova versio de Community Adblock antaŭ ol vi restaŭri ion el ĉi tiu dosiero.">
-<!ENTITY restore.error "La dosieraj datumoj ne povis traktitaj, ĉu tio eble ne estas sekurkopia dosiero de Community Adblock?">
+<!ENTITY restore.minVersion.warning "Averto: la dosiero estas kreita per pli nova versio de Ad Blocking Community. Vi ĝisdatigu al la plej nova versio de Ad Blocking Community antaŭ ol vi restaŭri ion el ĉi tiu dosiero.">
+<!ENTITY restore.error "La dosieraj datumoj ne povis traktitaj, ĉu tio eble ne estas sekurkopia dosiero de Ad Blocking Community?">
 <!ENTITY sort.ascending.label "Ordigo &amp;A &gt; Z">
 <!ENTITY sort.label "&amp;Ordigi laŭ">
 <!ENTITY subscription.source.label "Filtrila listo">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Neniu">
 <!ENTITY addSubscriptionCancel.label "Nuligi">
 <!ENTITY subscription.enabled.label "Ebligita">
-<!ENTITY noSubscriptions.text "Vi ankoraŭ ne aldonis filtrilabonojn. Community Adblock blokos enion sen filtriloj, bonvolu uzu &quot;Aldoni filtrilabonon&quot; por aldoni abonon.">
+<!ENTITY noSubscriptions.text "Vi ankoraŭ ne aldonis filtrilabonojn. Ad Blocking Community blokos enion sen filtriloj, bonvolu uzu &quot;Aldoni filtrilabonon&quot; por aldoni abonon.">
 <!ENTITY subscription.update.label "Ĝisdatigi filtrilojn">
-<!ENTITY dialog.title "Filtrilaj agordoj de Community Adblock">
+<!ENTITY dialog.title "Filtrilaj agordoj de Ad Blocking Community">
 <!ENTITY addFilter.label "Al&amp;doni filtrilon">
-<!ENTITY subscription.minVersion.warning "Ĉi tiu filtrilabono bezonas pli novan version de Community Adblock, vi ĝisdatigu al la plej nova versio de Community Adblock.">
+<!ENTITY subscription.minVersion.warning "Ĉi tiu filtrilabono bezonas pli novan version de Ad Blocking Community, vi ĝisdatigu al la plej nova versio de Ad Blocking Community.">
 <!ENTITY subscription.lastDownload.invalidURL "Malsukcesis, tio ne estas valida adreso">
 <!ENTITY backup.error "Okazis eraro dum skribado de filtriloj en dosieron. Kontrolu, ke la dosiero ne estas kontraŭskribe protektita aŭ uzate per alia aplikaĵo.">
 <!ENTITY filter.moveUp.label "Supren">

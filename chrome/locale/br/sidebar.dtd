@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Distagañ">
 <!ENTITY whitelisted.label "Pajenn el listenn wenn">
 <!ENTITY context.disablefilteronsite.label "Diweredekaat ar sil-se evit ?1?">
-<!ENTITY detached.title "Community Adblock : elfennoù silabl (distaget)">
+<!ENTITY detached.title "Ad Blocking Community : elfennoù silabl (distaget)">
 <!ENTITY tooltip.type.whitelisted "(aotret)">
 <!ENTITY tooltip.filter.label "Sil implijet:">
 <!ENTITY tooltip.filter.disabled "(marvaat)">

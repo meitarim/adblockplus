@@ -17,9 +17,9 @@
 <!ENTITY viewMenu.label "Харах">
 <!ENTITY noSubscriptions.text "Танд одоогоор ямар нэгэн захиалагт хамгаалаль алга байна. ">
 <!ENTITY subscription.update.label "хамгаалалтын шинэчлэлт">
-<!ENTITY dialog.title "Community Adblock шүүлтүүр Тохиргоо">
+<!ENTITY dialog.title "Ad Blocking Community шүүлтүүр Тохиргоо">
 <!ENTITY addFilter.label "Шүүлт нэмэх">
-<!ENTITY subscription.minVersion.warning "Энд хамгаалалтын  шинэ   Community Adblock хувилбарыг шинэчлэх хэрэгтэй. Та хамгийн сүүлийн үеийн Community Adblock хувилбар руу шинэчлэнэ үү">
+<!ENTITY subscription.minVersion.warning "Энд хамгаалалтын  шинэ   Ad Blocking Community хувилбарыг шинэчлэх хэрэгтэй. Та хамгийн сүүлийн үеийн Ad Blocking Community хувилбар руу шинэчлэнэ үү">
 <!ENTITY subscription.lastDownload.invalidURL "Бүтэлгүйтэв, буруу хаяг">
 <!ENTITY addGroup.label "Хамгаалалт нэмэх бас групп">
 <!ENTITY subscription.showHideFilters.label "Харагдуулах/хамгаалалтыг нуух">

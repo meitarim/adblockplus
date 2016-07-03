@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Accions">
 <!ENTITY filter.selectAll.label "Selecciona-ho tot">
 <!ENTITY backupButton.label "Fe&amp;s una còpia de seguretat i restaura">
-<!ENTITY restore.minVersion.warning "Atenció: El fitxer ha estat creat amb una versió més nova d'Community Adblock. Hauries d'actualitzar a l'última versió de l'Community Adblock abans de restaurar des d'aquest fitxer.">
-<!ENTITY restore.error "Les dades del fitxer no s'han pogut processar, potser aquest no és un fitxer de còpia de Seguretat de l'Community Adblock?">
+<!ENTITY restore.minVersion.warning "Atenció: El fitxer ha estat creat amb una versió més nova d'Ad Blocking Community. Hauries d'actualitzar a l'última versió de l'Ad Blocking Community abans de restaurar des d'aquest fitxer.">
+<!ENTITY restore.error "Les dades del fitxer no s'han pogut processar, potser aquest no és un fitxer de còpia de Seguretat de l'Ad Blocking Community?">
 <!ENTITY sort.ascending.label "Ordre &amp;A &gt; Z">
 <!ENTITY sort.label "&amp;Ordena per">
 <!ENTITY subscription.source.label "Llista de filtres">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "N/D">
 <!ENTITY addSubscriptionCancel.label "Cancel·la">
 <!ENTITY subscription.enabled.label "Activat">
-<!ENTITY noSubscriptions.text "Encara no heu afegit cap subscripció de filtre; l'Community Adblock no blocarà res sense filtres. Utilitzeu l'opció &quot;Afegeix el filtre&quot; per afegir-ne.">
+<!ENTITY noSubscriptions.text "Encara no heu afegit cap subscripció de filtre; l'Ad Blocking Community no blocarà res sense filtres. Utilitzeu l'opció &quot;Afegeix el filtre&quot; per afegir-ne.">
 <!ENTITY subscription.update.label "Actualitza els Filtres">
-<!ENTITY dialog.title "Preferències de filtre de l'Community Adblock">
+<!ENTITY dialog.title "Preferències de filtre de l'Ad Blocking Community">
 <!ENTITY addFilter.label "Afegeix un filt&amp;re">
-<!ENTITY subscription.minVersion.warning "Aquesta subscripció de filtre requereix una versió recent. Heu d'actualitzar l'Community Adblock.">
+<!ENTITY subscription.minVersion.warning "Aquesta subscripció de filtre requereix una versió recent. Heu d'actualitzar l'Ad Blocking Community.">
 <!ENTITY subscription.lastDownload.invalidURL "Error, no és una adreça vàlida">
 <!ENTITY backup.error "Hi ha hagut un error escribint els filtres al fitxer.  Assegura't que el fitxer no estigui protegit contra escritura o que l'estigui fent servir una altra aplicació.">
 <!ENTITY filter.moveUp.label "Mou amunt">

@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Oberennoù">
 <!ENTITY filter.selectAll.label "Diuzañ an holl">
 <!ENTITY backupButton.label "&amp;Gwarediñ hag assav">
-<!ENTITY restore.minVersion.warning "Diwallit : ar restr a zo bet krouet gant un handelv nevez Community Adblock. Ret e vefe deoc'h hizivaat d'an handelv Community Adblock nevesañ a-raok assav adalek ar restr-mañ.">
-<!ENTITY restore.error "N'eus ket bet tu keweriañ roadennoù ar restr, marteze n'eo ket ur restr gwarediñ Community Adblock ?">
+<!ENTITY restore.minVersion.warning "Diwallit : ar restr a zo bet krouet gant un handelv nevez Ad Blocking Community. Ret e vefe deoc'h hizivaat d'an handelv Ad Blocking Community nevesañ a-raok assav adalek ar restr-mañ.">
+<!ENTITY restore.error "N'eus ket bet tu keweriañ roadennoù ar restr, marteze n'eo ket ur restr gwarediñ Ad Blocking Community ?">
 <!ENTITY sort.ascending.label "Urzh A &gt; Z">
 <!ENTITY sort.label "Rummañ dre">
 <!ENTITY subscription.source.label "Listenn ar siloù">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "N/A">
 <!ENTITY addSubscriptionCancel.label "Nullañ">
 <!ENTITY subscription.enabled.label "Gweredekaet">
-<!ENTITY noSubscriptions.text "N'ho peus ouzhpennet koumanant sil ebet c'hoazh. Ne vo stanket netra gant Community Adblock ma ne lakait sil ebet. Implijit &quot;Ouzhpennañ ur goumanant sil&quot; evit ouzhpennañ un nebeut.">
+<!ENTITY noSubscriptions.text "N'ho peus ouzhpennet koumanant sil ebet c'hoazh. Ne vo stanket netra gant Ad Blocking Community ma ne lakait sil ebet. Implijit &quot;Ouzhpennañ ur goumanant sil&quot; evit ouzhpennañ un nebeut.">
 <!ENTITY subscription.update.label "Hizivaat ar siloù">
-<!ENTITY dialog.title "Gwellvezioù Sil Community Adblock">
+<!ENTITY dialog.title "Gwellvezioù Sil Ad Blocking Community">
 <!ENTITY addFilter.label "Ouzhpenn ur sil">
-<!ENTITY subscription.minVersion.warning "Un handelv nevezoc'h eus Community Adblock a zo dleet evit kaout ar goumanant sil, ret vefe deoc'h hizivaat d'an handelv nevesañ.">
+<!ENTITY subscription.minVersion.warning "Un handelv nevezoc'h eus Ad Blocking Community a zo dleet evit kaout ar goumanant sil, ret vefe deoc'h hizivaat d'an handelv nevesañ.">
 <!ENTITY subscription.lastDownload.invalidURL "Fazi, n'eo ket ur chomlec'h">
 <!ENTITY backup.error "Ur gudenn a zo bet en ur skrivañ ar siloù d'ar restroù. Bezit sur n'eo ket gwarezet ar restr pe implijet gant ur poellad all.">
 <!ENTITY filter.moveUp.label "Pignat">

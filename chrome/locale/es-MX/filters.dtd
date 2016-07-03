@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Comportamiento/Acciones">
 <!ENTITY filter.selectAll.label "Seleccionar Todo">
 <!ENTITY backupButton.label "&amp;Salvar/Copia de Seguridad y Restaurar">
-<!ENTITY restore.minVersion.warning "Advertencia: el archivo ha sido creado con una versión mas actual de Community Adblock. Deberias actualizar Community Adblock a la versión mas reciente antes de restaurar desde este archivo.">
-<!ENTITY restore.error "Los datos de archivo no se pudierón procesar, tal vez esta no sea una copia de seguridad de Community Adblock?">
+<!ENTITY restore.minVersion.warning "Advertencia: el archivo ha sido creado con una versión mas actual de Ad Blocking Community. Deberias actualizar Ad Blocking Community a la versión mas reciente antes de restaurar desde este archivo.">
+<!ENTITY restore.error "Los datos de archivo no se pudierón procesar, tal vez esta no sea una copia de seguridad de Ad Blocking Community?">
 <!ENTITY sort.ascending.label "Ordern&amp;ar de la A &gt; Z">
 <!ENTITY sort.label "Ordenar &amp;por">
 <!ENTITY subscription.source.label "Lista de filtros">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "N/A">
 <!ENTITY addSubscriptionCancel.label "Cancelar">
 <!ENTITY subscription.enabled.label "Activado">
-<!ENTITY noSubscriptions.text "Usted no ha agregado ninguna subscripción de filtros aun. Community Adblock no bloqueará
+<!ENTITY noSubscriptions.text "Usted no ha agregado ninguna subscripción de filtros aun. Ad Blocking Community no bloqueará
  nada sin filtros, por favor use &quot;Agregar subscripción de filtros&quot; para
  agregar algunos.">
 <!ENTITY subscription.update.label "Actualizar filtros">
-<!ENTITY dialog.title "Preferencias de Filtro de Community Adblock">
+<!ENTITY dialog.title "Preferencias de Filtro de Ad Blocking Community">
 <!ENTITY addFilter.label "Agregar &amp;filtro">
-<!ENTITY subscription.minVersion.warning "Esta suscripción de filtro necesita una versión actualizada de Community Adblock, debes actualizar tu versión de Community Adblock a la más reciente.">
+<!ENTITY subscription.minVersion.warning "Esta suscripción de filtro necesita una versión actualizada de Ad Blocking Community, debes actualizar tu versión de Ad Blocking Community a la más reciente.">
 <!ENTITY subscription.lastDownload.invalidURL "Falló, no es una dirección valida">
 <!ENTITY backup.error "Hubo un error escribiendo los filtros en el archivo. Asegurese que el archivo no esta protegido o que no se encuentre en uso por otra aplicación.">
 <!ENTITY filter.moveUp.label "Mover arriba">

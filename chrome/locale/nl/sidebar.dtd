@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Loskoppelen">
 <!ENTITY whitelisted.label "Toegestane pagina">
 <!ENTITY context.disablefilteronsite.label "Dit filter uitschakelen op ?1?">
-<!ENTITY detached.title "Community Adblock: Blokkeerbare items (losgekoppeld)">
+<!ENTITY detached.title "Ad Blocking Community: Blokkeerbare items (losgekoppeld)">
 <!ENTITY docDomain.firstParty "(rechtstreeks)">
 <!ENTITY tooltip.type.whitelisted "(toegestaan)">
 <!ENTITY tooltip.filter.label "Toegepast filter:">

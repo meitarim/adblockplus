@@ -7,6 +7,6 @@
 <!ENTITY viewList.label "Погледај филтере">
 <!ENTITY visitHomepage.label "Посети почетну страницу">
 <!ENTITY addSubscription.label "Додај пријаву">
-<!ENTITY dialog.title "Додавање пријаве за Community Adblock">
+<!ENTITY dialog.title "Додавање пријаве за Ad Blocking Community">
 <!ENTITY location.label "&amp;Локација списка са филтерима:">
 <!ENTITY fromWeb.description "Потврдите да желите да се пријавите на овај списак филтера. Имајте на уму да можете променити назив или локацију пријаве.">

@@ -1,12 +1,12 @@
 <!ENTITY notification.button.no "&amp;Не">
-<!ENTITY sync.label "Поставке &amp;усклађивања Community Adblock-а">
+<!ENTITY sync.label "Поставке &amp;усклађивања Ad Blocking Community-а">
 <!ENTITY whitelist.site.label "Онемогући на ?1?">
 <!ENTITY notification.closing.button.hide "Затвори ово обавештење">
 <!ENTITY filters.label "Подешавања &amp;филтера">
 <!ENTITY disable.label "Онемогући свуда">
 <!ENTITY objecttab.title "Блокирај">
-<!ENTITY objecttab.tooltip "Кликните овде да бисте блокирали објекат помоћу Community Adblock-а">
-<!ENTITY menuitem.label "Community Adblock - подеша&amp;вања">
+<!ENTITY objecttab.tooltip "Кликните овде да бисте блокирали објекат помоћу Ad Blocking Community-а">
+<!ENTITY menuitem.label "Ad Blocking Community - подеша&amp;вања">
 <!ENTITY objecttabs.label "Прикажи &amp;језичак на Flash и Java објектима">
 <!ENTITY sendReport.label "&amp;Пријави проблеме на овој страници">
 <!ENTITY whitelist.page.label "Онемогући само на овој страници">
@@ -15,8 +15,8 @@
 <!ENTITY opensidebar.label "О&amp;твори ставке које се могу блокирати">
 <!ENTITY notification.button.close "&amp;Затвори">
 <!ENTITY shownotifications.label "Приказуј корисна обавештења">
-<!ENTITY contribute.label "Допринесите Community Adblock-у">
-<!ENTITY toolbarbutton.label "Community Adblock">
+<!ENTITY contribute.label "Допринесите Ad Blocking Community-у">
+<!ENTITY toolbarbutton.label "Ad Blocking Community">
 <!ENTITY context.frame.label "Блокирај оквир">
 <!ENTITY blocked.tooltip "Блокиране ставке на овој страни:">
 <!ENTITY notification.closing.button.optout "Не приказуј обавештења">

@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Aðgerðir">
 <!ENTITY filter.selectAll.label "Velja allt">
 <!ENTITY backupButton.label "&amp;Afrita og endurheimta">
-<!ENTITY restore.minVersion.warning "Aðvörun: skráin var búin til að nýrri útgáfu af Community Adblock. Þú ættir að uppfæra í nýjustu útgáfu af Community Adblock áður en þú endurheimtir þessa skrá.">
-<!ENTITY restore.error "Ekki tókst að lesa skráargögn, kannski er skráin ekki Community Adblock afritunarskrá?">
+<!ENTITY restore.minVersion.warning "Aðvörun: skráin var búin til að nýrri útgáfu af Ad Blocking Community. Þú ættir að uppfæra í nýjustu útgáfu af Ad Blocking Community áður en þú endurheimtir þessa skrá.">
+<!ENTITY restore.error "Ekki tókst að lesa skráargögn, kannski er skráin ekki Ad Blocking Community afritunarskrá?">
 <!ENTITY sort.ascending.label "&amp;A &gt; Ö röðun">
 <!ENTITY sort.label "Raða e&amp;ftir">
 <!ENTITY subscription.source.label "Sía lista">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "Óþekkt">
 <!ENTITY addSubscriptionCancel.label "Hætta við">
 <!ENTITY subscription.enabled.label "Virkt">
-<!ENTITY noSubscriptions.text "Þú hefur ekki ennþá bætt við áskrift að síu. Community Adblock virkar ekki
+<!ENTITY noSubscriptions.text "Þú hefur ekki ennþá bætt við áskrift að síu. Ad Blocking Community virkar ekki
 	án þess að vera með síur, notaðu &quot;Bæta við síuáskrift&quot; til
 	að bæta við síuáskrift.">
 <!ENTITY subscription.update.label "Uppfæra síur">
-<!ENTITY dialog.title "Community Adblock síu stillingar">
+<!ENTITY dialog.title "Ad Blocking Community síu stillingar">
 <!ENTITY addFilter.label "Bæta við sí&amp;u">
-<!ENTITY subscription.minVersion.warning "Þessi síuáskrift þarfnast nýrri útáfu af Community Adblock, þú ættir að uppfæra í nýjustu útgáfu.">
+<!ENTITY subscription.minVersion.warning "Þessi síuáskrift þarfnast nýrri útáfu af Ad Blocking Community, þú ættir að uppfæra í nýjustu útgáfu.">
 <!ENTITY subscription.lastDownload.invalidURL "Mistókst, ekki gilt netfang">
 <!ENTITY backup.error "Upp kom villa við að skrifa síur í skránna. Gakktu úr skugga um að skráin sé ekki ritvarin eða í notkun af öðru forriti.">
 <!ENTITY filter.moveUp.label "Færa upp">

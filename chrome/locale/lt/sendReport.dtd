@@ -9,34 +9,34 @@ ir jei problema neišsisprendė praneškite apie ją.">
 <!ENTITY issues.openPreferences.label "Atverti filtro nustatymus">
 <!ENTITY sendPage.confirmation "Jūsų pranešimas išsaugotas. Jį pasiekti galite šiuo adresu:">
 <!ENTITY copyLink.label "&amp;Kopijuoti pranešimo nuorodą">
-<!ENTITY issues.nofilters.description "Community Adblock dabartiniame puslapyje nieko neblokuoja. Problema kurią matote 
-tikriausiai nėra susijusi su Community Adblock.">
+<!ENTITY issues.nofilters.description "Ad Blocking Community dabartiniame puslapyje nieko neblokuoja. Problema kurią matote 
+tikriausiai nėra susijusi su Ad Blocking Community.">
 <!ENTITY sendPage.knownIssue "Pranešta klaida turbūt žinoma. Daugiau informacijos:">
-<!ENTITY typeSelector.other.description "Pasirinkite šią pasirinkty jei manote jog tai pačio Community Adblock bėda, o ne filtrų.">
+<!ENTITY typeSelector.other.description "Pasirinkite šią pasirinkty jei manote jog tai pačio Ad Blocking Community bėda, o ne filtrų.">
 <!ENTITY issues.disabledgroups.enable.label "Įjungti filtro prenumeratą / filtrų grupę">
 <!ENTITY typeWarning.override.label "&amp;Aš suprantu ir vistiek noriu pranešti">
-<!ENTITY issues.disabled.enable.label "Įjungti Community Adblock">
+<!ENTITY issues.disabled.enable.label "Įjungti Ad Blocking Community">
 <!ENTITY update.fixed.description "Atnaujinimai greičiausiai išsprendė bėdą apie kurią jūs norėjote pranešti. Įkraukite puslapį iš naujo, jei problema vis dar yra paspauskite „Pranešti“.">
 <!ENTITY anonymous.label "&amp;Anoniminis pranešimas">
 <!ENTITY reloadButton.label "&amp;Įkelti iš naujo">
 <!ENTITY recentReports.clear.label "&amp;Pašalinti visus pranešimus">
-<!ENTITY typeSelector.description "Šis langas padės įvykdyti kelis žingsnius kurie reikalingi pranešti apie Community Adblock 
+<!ENTITY typeSelector.description "Šis langas padės įvykdyti kelis žingsnius kurie reikalingi pranešti apie Ad Blocking Community 
 problemą. Pirmiausia, šiame puslapyje, pasirinkite problemos su kuria susidūrėte
 tipą:">
 <!ENTITY screenshot.remove.label "&amp;Pašalinti neviešus duomenis">
 <!ENTITY issues.ownfilters.description "Kai kurie filtrai pritaikyti šiam puslapiui yra sukurti naudotojo. Išjunkite
 filtrus kurie galėjo sukelti problemą:">
-<!ENTITY update.inProgress.description "Community Adblock turi atnaujinti jūsų filtrų prenumeratas ir įsitikinti jog problema dar neišspręsta. Palaukite...">
+<!ENTITY update.inProgress.description "Ad Blocking Community turi atnaujinti jūsų filtrų prenumeratas ir įsitikinti jog problema dar neišspręsta. Palaukite...">
 <!ENTITY sendPage.retry.label "Siųsti dar kartą">
 <!ENTITY data.label "Praneš&amp;imo duomenys:">
 <!ENTITY recentReports.label "Jūsų nesenai praneštos problemos">
-<!ENTITY typeWarning.description "Jūs pareiškėte jog problemą sukėlė Community Adblock, o ne filtrai. 
+<!ENTITY typeWarning.description "Jūs pareiškėte jog problemą sukėlė Ad Blocking Community, o ne filtrai. 
 Turėkite omeny jog tokias problemas geriausia pranešti 
-[link]Community Adblock forume[/link]. Šį problemų pranešėją turėtumėte naudoti
+[link]Ad Blocking Community forume[/link]. Šį problemų pranešėją turėtumėte naudoti
 tik papildyti esamas diskusijas, niekas nepastebės jūsų pranešimo
 nebent duosite nuorodą į jį. Automatiškai sukurta nuoroda
 bus parodyta kai išsiųsite pranešimą.">
-<!ENTITY issues.disabled.description "Community Adblock yra išjungtas, tokioje būsenoje jis nieko neužblokuos.">
+<!ENTITY issues.disabled.description "Ad Blocking Community yra išjungtas, tokioje būsenoje jis nieko neužblokuos.">
 <!ENTITY attachExtensions.label "Jei kilo problema dėl plėtinių, praneškite problema pridėję &amp;aktyvių plėtinių sąrašą,">
 <!ENTITY issues.nosubscriptions.add.label "Pridėti filtro prenumeratą">
 <!ENTITY issues.disabledfilters.enable.label "Įjungti filtrą">
@@ -44,18 +44,18 @@ bus parodyta kai išsiųsite pranešimą.">
 <!ENTITY issues.nosubscriptions.description "Atrodo jūs neprenumeruojate jokių sukurtų filtrų sąrašų kurie automatiškai 
 šalintų nepageidaujamą turinį iš puslapių.">
 <!ENTITY typeSelector.falsePositive.description "Pasirinkite šią pasirinkty jei puslapyje trūksta svarbaus turinio, jei atvaizduojama netinkamai ar
-puslapis nefunkcionuoja taip kaip turėtų. Norėdami įsitikinti jog problemą sukėlė Community Adblock galite
-trumpam išjungti Community Adblock.">
+puslapis nefunkcionuoja taip kaip turėtų. Norėdami įsitikinti jog problemą sukėlė Ad Blocking Community galite
+trumpam išjungti Ad Blocking Community.">
 <!ENTITY typeSelector.other.label "Ki&amp;ta bėda">
 <!ENTITY emailComment.label "Mes raginame įvesti veikiantį el. pašto adresą, tada jei turėsime klausimų galėsime jums juos užduoti. Taipogi tai padės atpažinti jūsų pranešimus ir suteikti jiems aukštesnį prioritetą.">
-<!ENTITY issues.whitelist.remove.label "Šiame puslapyje pakartotinai įjungti Community Adblock">
+<!ENTITY issues.whitelist.remove.label "Šiame puslapyje pakartotinai įjungti Ad Blocking Community">
 <!ENTITY outdatedSubscriptions.description "Šios filtrų prenumeratos nebuvo atnaujintos bent dvi savaites. Prieš siųsdami pranešimą atnaujinkite šias prenumeratas, gali būti jog problema jau išspręsta.">
-<!ENTITY dataCollector.description "Palaukite kelias akimirkas, kol Community Adblock surinks reikalingus duomenis.">
+<!ENTITY dataCollector.description "Palaukite kelias akimirkas, kol Ad Blocking Community surinks reikalingus duomenis.">
 <!ENTITY sendButton.label "Siųsti p&amp;ranešimą">
 <!ENTITY comment.label "&amp;Komentaras (nebūtinas):">
 <!ENTITY sendPage.errorMessage "Bandymas išsiųsti pranešimą nepavyko, buvo gauta klaida &quot;?1?&quot;. Įsitikinkite jog 
 esate prisijungę prie interneto ir bandykite dar kartą. Jei problema vis dar yra paprašykite
-pagalbos forume [link]Community Adblock forumas[/link].">
+pagalbos forume [link]Ad Blocking Community forumas[/link].">
 <!ENTITY showRecentReports.label "Rodyti nesenai praneštas problemas">
 <!ENTITY commentPage.heading "Parašykite komentarą">
 <!ENTITY update.start.label "Pradėti atnaujinimą">
@@ -66,10 +66,10 @@ gali būti neviešos informacijos, taip pat ir tas kuriose
 nesimato problemos. Norint tai padaryti paspauskite atitinkamą mygtuką ir pasirinkite 
 reikalingą paveiksliuko dalį su pele.">
 <!ENTITY screenshot.attach.label "P&amp;rie pranešimo pridėti puslapio vaizdą">
-<!ENTITY issues.whitelist.description "Šiuo metu, šiame puslapyje Community Adblock yra išjungtas. Prašau įjungti jį
+<!ENTITY issues.whitelist.description "Šiuo metu, šiame puslapyje Ad Blocking Community yra išjungtas. Prašau įjungti jį
 ir perkrauti puslapį prieš pranešant apie problemą kuriai
 spręsti norite pagalbos.">
-<!ENTITY typeSelector.falseNegative.label "Community Adblock neblokuoja &amp;reklamų">
+<!ENTITY typeSelector.falseNegative.label "Ad Blocking Community neblokuoja &amp;reklamų">
 <!ENTITY typeSelector.heading "Pasirinkite tipą">
 <!ENTITY anonymity.warning "Mes negalėsime grįžti prie jūsų ir greičiausiai jūsų ataskaitai bus priskirtas žemas prioritetas.">
 <!ENTITY wizard.title "Klaidos pranešimas">
@@ -79,8 +79,8 @@ spręsti norite pagalbos.">
 Taipogi galite peržiūrėti pranešimą prieš jį siunčiant.">
 <!ENTITY comment.lengthWarning "Jūsų komentaras ilgesnis nei 1000 simbolių. Bus išsiųsti tik pirmi 1000 simbolių.">
 <!ENTITY typeSelector.falseNegative.description "Pasirinkite šią pasirinkty jei reklama rodoma, net ir
-įjungus Community Adblock.">
-<!ENTITY sendPage.waitMessage "Palaukite kol Community Adblock siunčia jūsų pranešimą.">
+įjungus Ad Blocking Community.">
+<!ENTITY sendPage.waitMessage "Palaukite kol Ad Blocking Community siunčia jūsų pranešimą.">
 <!ENTITY dataCollector.heading "Sveiki atvykę į klaidų pranešėją">
 <!ENTITY screenshot.heading "Pridėti ekranvaizdį">
 <!ENTITY sendPage.heading "Siųsti pranešimą">
@@ -92,5 +92,5 @@ pašalinti visus tikrai reikalingas filtrų prenumeratas ir
 patikrinti ar problema vis dar yra.">
 <!ENTITY screenshot.mark.label "Paž&amp;ymėti problemą">
 <!ENTITY privacyPolicy.label "Privatumo politika">
-<!ENTITY issues.description "Community Adblock nustatė klaidų jūsų konfigūracijoje kurios gali būti atsakingos 
+<!ENTITY issues.description "Ad Blocking Community nustatė klaidų jūsų konfigūracijoje kurios gali būti atsakingos 
 dėl šios problemos arba gali apsunkinti problemų sprendimą.">

@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Actions">
 <!ENTITY filter.selectAll.label "Tout sélectionner">
 <!ENTITY backupButton.label "&amp;Sauvegarde et restauration">
-<!ENTITY restore.minVersion.warning "Attention : le fichier a été créé avec une nouvelle version d'Community Adblock. Vous devriez mettre à jour et passer à la dernière version d'Community Adblock avant de restaurer vos données avec ce fichier.">
-<!ENTITY restore.error "Les données de ce fichier ne peuvent être traitées, il est possible qu'il ne s'agisse pas d'un fichier de données d'Community Adblock.">
+<!ENTITY restore.minVersion.warning "Attention : le fichier a été créé avec une nouvelle version d'Ad Blocking Community. Vous devriez mettre à jour et passer à la dernière version d'Ad Blocking Community avant de restaurer vos données avec ce fichier.">
+<!ENTITY restore.error "Les données de ce fichier ne peuvent être traitées, il est possible qu'il ne s'agisse pas d'un fichier de données d'Ad Blocking Community.">
 <!ENTITY sort.ascending.label "Ordre de &amp;A &gt; Z">
 <!ENTITY sort.label "&amp;Trier par">
 <!ENTITY subscription.source.label "Liste de filtres">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Inconnu">
 <!ENTITY addSubscriptionCancel.label "Annuler">
 <!ENTITY subscription.enabled.label "Activé">
-<!ENTITY noSubscriptions.text "Vous n'avez pas encore ajouté d'abonnement. Community Adblock ne bloquera rien sans filtres, veuillez utiliser « Ajouter un abonnement » pour en ajouter.">
+<!ENTITY noSubscriptions.text "Vous n'avez pas encore ajouté d'abonnement. Ad Blocking Community ne bloquera rien sans filtres, veuillez utiliser « Ajouter un abonnement » pour en ajouter.">
 <!ENTITY subscription.update.label "Mettre à jour les filtres">
-<!ENTITY dialog.title "Préférences Community Adblock">
+<!ENTITY dialog.title "Préférences Ad Blocking Community">
 <!ENTITY addFilter.label "Ajouter u&amp;n filtre">
-<!ENTITY subscription.minVersion.warning "Cet abonnement nécessite une version plus récente d'Community Adblock, vous devriez installer la dernière version d'Community Adblock.">
+<!ENTITY subscription.minVersion.warning "Cet abonnement nécessite une version plus récente d'Ad Blocking Community, vous devriez installer la dernière version d'Ad Blocking Community.">
 <!ENTITY subscription.lastDownload.invalidURL "Échec, ceci n'est pas une adresse valide !">
 <!ENTITY backup.error "Une erreur s'est produite lors de l'écriture des filtres dans le fichier. Assurez-vous que ce fichier n'est pas protégé en écriture ou utilisé par une autre application.">
 <!ENTITY filter.moveUp.label "Monter">

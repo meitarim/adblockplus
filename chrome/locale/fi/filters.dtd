@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Toiminnot">
 <!ENTITY filter.selectAll.label "Valitse kaikki">
 <!ENTITY backupButton.label "&amp;Varmuuskopioi ja palauta">
-<!ENTITY restore.minVersion.warning "Varoitus: tiedosto on luotu uudemmalla Community Adblocksan versiolla. Ennen kuin palautat tästä tiedostosta, on suositeltavaa päivittää Community Adblock uusimpaan versioon.">
-<!ENTITY restore.error "Tiedoston tietoja ei voida käsitellä. Ehkä tämä ei ole Community Adblock -varmuuskopiotiedosto?">
+<!ENTITY restore.minVersion.warning "Varoitus: tiedosto on luotu uudemmalla Ad Blocking Communitysan versiolla. Ennen kuin palautat tästä tiedostosta, on suositeltavaa päivittää Ad Blocking Community uusimpaan versioon.">
+<!ENTITY restore.error "Tiedoston tietoja ei voida käsitellä. Ehkä tämä ei ole Ad Blocking Community -varmuuskopiotiedosto?">
 <!ENTITY sort.ascending.label "&amp;A &gt; Ö lajittelu">
 <!ENTITY sort.label "Lajitt&amp;eluperuste">
 <!ENTITY subscription.source.label "Suodatinlista">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Ei tietoa">
 <!ENTITY addSubscriptionCancel.label "Peruuta">
 <!ENTITY subscription.enabled.label "Käytössä">
-<!ENTITY noSubscriptions.text "Suodatintilauksia ei ole vielä lisätty. Community Adblock ei estä mitään ilman suodattimia. Käytä &quot;Lisää suodatintilaus&quot; -painiketta lisätäksesi joitakin.">
+<!ENTITY noSubscriptions.text "Suodatintilauksia ei ole vielä lisätty. Ad Blocking Community ei estä mitään ilman suodattimia. Käytä &quot;Lisää suodatintilaus&quot; -painiketta lisätäksesi joitakin.">
 <!ENTITY subscription.update.label "Päivitä suodattimet">
-<!ENTITY dialog.title "Community Adblock -suodatinasetukset">
+<!ENTITY dialog.title "Ad Blocking Community -suodatinasetukset">
 <!ENTITY addFilter.label "&amp;Lisää suodatin">
-<!ENTITY subscription.minVersion.warning "Tämä suodatintilaus vaatii uudemman Community Adblock -version. Päivitä Community Adblock uusimpaan versioon.">
+<!ENTITY subscription.minVersion.warning "Tämä suodatintilaus vaatii uudemman Ad Blocking Community -version. Päivitä Ad Blocking Community uusimpaan versioon.">
 <!ENTITY subscription.lastDownload.invalidURL "Epäonnistui, kelvoton osoite">
 <!ENTITY backup.error "Virhe kirjoitettaessa suodattimia tiedostoon. Varmista, että tiedosto ei ole kirjoitussuojattu tai jonkin muun ohjelman käytössä.">
 <!ENTITY filter.moveUp.label "Siirrä ylös">

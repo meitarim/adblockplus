@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Действия">
 <!ENTITY filter.selectAll.label "Избери всичко">
 <!ENTITY backupButton.label "&amp;Резервирай и възстанови">
-<!ENTITY restore.minVersion.warning "Предупреждение: файлът е създаден с по-нова версия на Community Adblock. Обновете версията на Community Adblock до най-новата преди да възстановите файла.">
-<!ENTITY restore.error "Данните от файла е невъзможно да бъдат обработени и вероятно това не е файл с резервно копие на Community Adblock?">
+<!ENTITY restore.minVersion.warning "Предупреждение: файлът е създаден с по-нова версия на Ad Blocking Community. Обновете версията на Ad Blocking Community до най-новата преди да възстановите файла.">
+<!ENTITY restore.error "Данните от файла е невъзможно да бъдат обработени и вероятно това не е файл с резервно копие на Ad Blocking Community?">
 <!ENTITY sort.ascending.label "Низходящо &amp;А &gt; Я">
 <!ENTITY sort.label "&amp;Подреди по">
 <!ENTITY subscription.source.label "Списък с филтри">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Н/Д">
 <!ENTITY addSubscriptionCancel.label "Отказ">
 <!ENTITY subscription.enabled.label "Разрешен">
-<!ENTITY noSubscriptions.text "Няма абонамент. Без филтри Community Adblock не блокира нищо. Моля, ползвайте „Добави абонамент“ и добавете нещо.">
+<!ENTITY noSubscriptions.text "Няма абонамент. Без филтри Ad Blocking Community не блокира нищо. Моля, ползвайте „Добави абонамент“ и добавете нещо.">
 <!ENTITY subscription.update.label "Обнови филтрите">
-<!ENTITY dialog.title "Настройки на филтрите в Community Adblock">
+<!ENTITY dialog.title "Настройки на филтрите в Ad Blocking Community">
 <!ENTITY addFilter.label "До&amp;бави филтър">
-<!ENTITY subscription.minVersion.warning "Абонаментът за този филтър изисква по-нова версия на Community Adblock. Моля, обновете версията на Community Adblock до последната.">
+<!ENTITY subscription.minVersion.warning "Абонаментът за този филтър изисква по-нова версия на Ad Blocking Community. Моля, обновете версията на Ad Blocking Community до последната.">
 <!ENTITY subscription.lastDownload.invalidURL "Провален — недействителен адрес">
 <!ENTITY backup.error "Възникна грешка при записване на филтрите във файл. Уверете се, че файлът не е защитен срещу запис, или че не се ползва от друго приложение.">
 <!ENTITY filter.moveUp.label "Премести нагоре">

@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Адлучыць">
 <!ENTITY whitelisted.label "Адключаны на гэтай старонцы">
 <!ENTITY context.disablefilteronsite.label "Адключыць фільтр на ?1?">
-<!ENTITY detached.title "Community Adblock: блакуемыя элементы (адлучаны)">
+<!ENTITY detached.title "Ad Blocking Community: блакуемыя элементы (адлучаны)">
 <!ENTITY docDomain.firstParty "(асноўны дамен)">
 <!ENTITY tooltip.type.whitelisted "(выключэнне)">
 <!ENTITY tooltip.filter.label "Ужыты фільтр:">

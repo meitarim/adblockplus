@@ -5,29 +5,29 @@
 <!ENTITY filters.label "Gestione dei &amp;filtri">
 <!ENTITY disable.label "Disattiva per tutte le pagine">
 <!ENTITY objecttab.title "Blocca">
-<!ENTITY objecttab.tooltip "Fare clic qui per bloccare l'oggetto con Community Adblock">
-<!ENTITY menuitem.label "Gestione dei filtri di &amp;Community Adblock">
+<!ENTITY objecttab.tooltip "Fare clic qui per bloccare l'oggetto con Ad Blocking Community">
+<!ENTITY menuitem.label "Gestione dei filtri di &amp;Ad Blocking Community">
 <!ENTITY objecttabs.label "Mos&amp;tra linguetta 'Blocca…' per elementi Flash e Java">
 <!ENTITY sendReport.label "&amp;Segnala problemi nella pagina attuale">
 <!ENTITY whitelist.page.label "Disattiva solo per la pagina attuale">
-<!ENTITY context.image.label "Blocca immagine con Community Adblock">
+<!ENTITY context.image.label "Blocca immagine con Ad Blocking Community">
 <!ENTITY notification.button.yes "Sì">
 <!ENTITY opensidebar.label "Apri l'elenco degli elementi &amp;bloccabili">
 <!ENTITY notification.button.close "Chiudi">
 <!ENTITY shownotifications.label "Visualizza notifiche utili">
-<!ENTITY contribute.label "Contribuisci ad Community Adblock">
-<!ENTITY toolbarbutton.label "Community Adblock">
-<!ENTITY context.frame.label "Blocca riquadro con Community Adblock">
+<!ENTITY contribute.label "Contribuisci ad Ad Blocking Community">
+<!ENTITY toolbarbutton.label "Ad Blocking Community">
+<!ENTITY context.frame.label "Blocca riquadro con Ad Blocking Community">
 <!ENTITY blocked.tooltip "Elementi attualmente bloccati">
 <!ENTITY notification.closing.button.optout "Interrompi la visualizzazione delle notifiche">
 <!ENTITY counthits.label "&amp;Effettua le statistiche di accesso">
 <!ENTITY showinstatusbar.label "Vi&amp;sualizza nella barra di stato">
-<!ENTITY sidebar.title "Elenco degli elementi bloccabili con Community Adblock">
-<!ENTITY options.label "&amp;Opzioni di Community Adblock">
-<!ENTITY context.object.label "Blocca oggetto con Community Adblock">
-<!ENTITY context.removeWhitelist.label "Riattiva Community Adblock nella pagina attuale">
-<!ENTITY filters.tooltip "Filtri di Community Adblock maggiormente attivi">
+<!ENTITY sidebar.title "Elenco degli elementi bloccabili con Ad Blocking Community">
+<!ENTITY options.label "&amp;Opzioni di Ad Blocking Community">
+<!ENTITY context.object.label "Blocca oggetto con Ad Blocking Community">
+<!ENTITY context.removeWhitelist.label "Riattiva Ad Blocking Community nella pagina attuale">
+<!ENTITY filters.tooltip "Filtri di Ad Blocking Community maggiormente attivi">
 <!ENTITY closesidebar.label "Chiudi l'elenco degli elementi &amp;bloccabili">
 <!ENTITY showintoolbar.label "Visualizza nella &amp;barra degli strumenti">
-<!ENTITY status.tooltip "Stato di Community Adblock">
-<!ENTITY context.media.label "Blocca video/audio con Community Adblock">
+<!ENTITY status.tooltip "Stato di Ad Blocking Community">
+<!ENTITY context.media.label "Blocca video/audio con Ad Blocking Community">

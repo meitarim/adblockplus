@@ -5,7 +5,7 @@
 <!ENTITY filters.label "&amp; ফিল্টার অগ্রাধিকার">
 <!ENTITY disable.label "সব জায়গায় নিষ্ক্রিয় করুন">
 <!ENTITY objecttab.title "অবরুদ্ধ">
-<!ENTITY objecttab.tooltip "Community Adblock দিয়ে এই বস্তু অবরুদ্ধ করার জন্য এখানে ক্লিক করুন">
+<!ENTITY objecttab.tooltip "Ad Blocking Community দিয়ে এই বস্তু অবরুদ্ধ করার জন্য এখানে ক্লিক করুন">
 <!ENTITY menuitem.label "অ্যাডব্লক প্লাস পছন্দসমুহ">
 <!ENTITY objecttabs.label "ট্যাব ফ্ল্যাশ এবং জাভা  প্রদর্শন করুন">
 <!ENTITY sendReport.label "&amp;এই পাতায় সমস্যা জানান">
@@ -16,7 +16,7 @@
 <!ENTITY notification.button.close "&amp;বন্ধ করুন">
 <!ENTITY shownotifications.label "দরকারী বিজ্ঞপ্তি &amp;দেখান">
 <!ENTITY contribute.label "অ্যাডব্লক প্লাস এ অবদান রাখুন">
-<!ENTITY toolbarbutton.label "Community Adblock">
+<!ENTITY toolbarbutton.label "Ad Blocking Community">
 <!ENTITY context.frame.label "অ্যাডব্লক প্লাসঃ কাঠামো রুদ্ধ করুন">
 <!ENTITY blocked.tooltip "এই পৃষ্ঠার অবরুদ্ধ আইটেমগুলি:">
 <!ENTITY notification.closing.button.optout "&amp;বিজ্ঞপ্তি দেখানো বন্ধ করুন">

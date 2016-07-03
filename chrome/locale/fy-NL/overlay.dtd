@@ -1,11 +1,11 @@
 <!ENTITY notification.button.no "&amp;Nee">
-<!ENTITY sync.label "Sync Community Adblock opsjes">
+<!ENTITY sync.label "Sync Ad Blocking Community opsjes">
 <!ENTITY whitelist.site.label "Utskeakelje op ?1?">
 <!ENTITY filters.label "Filterfoarkarren">
 <!ENTITY disable.label "Oeral útskeakelje">
 <!ENTITY objecttab.title "Blokkearje">
-<!ENTITY objecttab.tooltip "Klik hjir om dit objekt te blokkearjen mei Community Adblock">
-<!ENTITY menuitem.label "&amp;Community Adblock">
+<!ENTITY objecttab.tooltip "Klik hjir om dit objekt te blokkearjen mei Ad Blocking Community">
+<!ENTITY menuitem.label "&amp;Ad Blocking Community">
 <!ENTITY objecttabs.label "Ljepblêden sjen li&amp;tte op Flash en Java">
 <!ENTITY sendReport.label "Rapportearje probleem op dizze side">
 <!ENTITY whitelist.page.label "Allinnich op dizze side útskeakelje">
@@ -13,8 +13,8 @@
 <!ENTITY notification.button.yes "&amp;Ja">
 <!ENTITY opensidebar.label "&amp;Blokkearbere ûnderdielen iepenje">
 <!ENTITY notification.button.close "&amp;Slûte">
-<!ENTITY contribute.label "Donearje oan Community Adblock">
-<!ENTITY toolbarbutton.label "Community Adblock">
+<!ENTITY contribute.label "Donearje oan Ad Blocking Community">
+<!ENTITY toolbarbutton.label "Ad Blocking Community">
 <!ENTITY context.frame.label "Dielfinster blokkearje">
 <!ENTITY blocked.tooltip "Blokkearre ûnderdielen:">
 <!ENTITY counthits.label "Tel filterhits">
@@ -22,9 +22,9 @@
 <!ENTITY sidebar.title "Blokkearbere ûnderdelen op dizze side">
 <!ENTITY options.label "Opsjes">
 <!ENTITY context.object.label "Objekt blokkearje">
-<!ENTITY context.removeWhitelist.label "Community Adblock: opnij ynskeakelje op dizze side">
+<!ENTITY context.removeWhitelist.label "Ad Blocking Community: opnij ynskeakelje op dizze side">
 <!ENTITY filters.tooltip "Meast aktive filters:">
 <!ENTITY closesidebar.label "&amp;Blokkearbere ûnderdielen slute">
 <!ENTITY showintoolbar.label "To&amp;ane yn arkbalke">
 <!ENTITY status.tooltip "Steat:">
-<!ENTITY context.media.label "Community Adblock: Blokkearje audio/fideo">
+<!ENTITY context.media.label "Ad Blocking Community: Blokkearje audio/fideo">
